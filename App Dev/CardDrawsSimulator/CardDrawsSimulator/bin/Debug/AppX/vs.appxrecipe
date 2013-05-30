@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>QUAN-DESKTOP</Machine>
+    <WindowsUser>vtquan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>4A13B87A05211C7B1AB4BBF63883C46BD3C34514DCD357E5E676A809B0B44733</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>70511c23-d721-471b-bde8-e1fd38de48d7_1.0.0.0_neutral__7c80q3n6bg1gt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>70511c23-d721-471b-bde8-e1fd38de48d7_7c80q3n6bg1gt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>70511c23-d721-471b-bde8-e1fd38de48d7</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=vtquan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\CardDrawsSimulator\CardDrawsSimulator\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-25T17:58:14.355</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\CardDrawsSimulator\CardDrawsSimulator\bin\Debug\CardDrawsSimulator.exe">
+      <PackagePath>CardDrawsSimulator.exe</PackagePath>
+      <Modified>2013-04-25T17:56:11.474</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\CardDrawsSimulator\CardDrawsSimulator\bin\Debug\CardDrawsSimulator.pdb">
+      <PackagePath>CardDrawsSimulator.pdb</PackagePath>
+      <Modified>2013-04-25T17:56:11.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\CardDrawsSimulator\CardDrawsSimulator\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-25T17:57:42.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\CardDrawsSimulator\CardDrawsSimulator\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-25T17:57:43.861</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\CardDrawsSimulator\CardDrawsSimulator\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-25T17:57:45.844</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\CardDrawsSimulator\CardDrawsSimulator\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-25T17:57:40.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\CardDrawsSimulator\CardDrawsSimulator\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-04-25T16:54:42.894</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\CardDrawsSimulator\CardDrawsSimulator\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-04-25T16:54:26.756</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\CardDrawsSimulator\CardDrawsSimulator\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T21:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\CardDrawsSimulator\CardDrawsSimulator\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-04-25T17:51:49.549</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\CardDrawsSimulator\CardDrawsSimulator\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-04-25T17:58:14.312</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>QUAN-DESKTOP</Machine>
+    <WindowsUser>vtquan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>0D0D84735733287D4A3E00541E2908302D612E301AA2F426630053E2CBEB9BF9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4dd39367-b00f-4ae1-938a-9365f4c4dda4_1.0.0.0_neutral__7c80q3n6bg1gt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4dd39367-b00f-4ae1-938a-9365f4c4dda4_7c80q3n6bg1gt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4dd39367-b00f-4ae1-938a-9365f4c4dda4</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=vtquan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-27T22:51:28.980</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\bin\Debug\Random Number Simulator.exe">
+      <PackagePath>Random Number Simulator.exe</PackagePath>
+      <Modified>2013-04-27T22:51:28.861</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\bin\Debug\Random Number Simulator.pdb">
+      <PackagePath>Random Number Simulator.pdb</PackagePath>
+      <Modified>2013-04-27T22:51:28.830</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-27T22:49:09.629</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-27T22:49:07.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-27T22:49:11.597</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-27T22:49:13.745</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-04-27T22:47:03.506</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-04-27T22:40:06.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T21:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-04-27T22:50:22.212</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-04-27T22:51:28.908</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

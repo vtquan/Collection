@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>QUAN-DESKTOP</Machine>
+    <WindowsUser>vtquan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>DF8A41433D845CA8CCDFBEEF93BDB20DDD05A945FC8343A0FC1CED21BEBFAC0A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b9b61487-8830-4a41-b150-7edd5585d062_1.0.0.0_neutral__7c80q3n6bg1gt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b9b61487-8830-4a41-b150-7edd5585d062_7c80q3n6bg1gt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b9b61487-8830-4a41-b150-7edd5585d062</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=vtquan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-28T17:49:58.123</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\bin\Debug\Find Dead Pixels.exe">
+      <PackagePath>Find Dead Pixels.exe</PackagePath>
+      <Modified>2013-04-28T17:49:58.023</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\bin\Debug\Find Dead Pixels.pdb">
+      <PackagePath>Find Dead Pixels.pdb</PackagePath>
+      <Modified>2013-04-28T17:49:58.008</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-28T17:49:27.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-28T17:49:25.557</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-28T17:49:29.656</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-28T17:49:31.454</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-04-28T17:17:33.806</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-04-28T17:17:15.652</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T21:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-04-28T17:46:21.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-04-28T17:49:58.067</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

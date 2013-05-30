@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>QUAN-DESKTOP</Machine>
+    <WindowsUser>vtquan</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>630905E980FCF5F72334173EBBDA7E1140289F701C057A2A2D2D195CE547BAF1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>19840ViquocQuan.MultiplicationPopQuiz_1.0.0.0_neutral__2apa7etkjmne0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>19840ViquocQuan.MultiplicationPopQuiz_2apa7etkjmne0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>19840ViquocQuan.MultiplicationPopQuiz</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=BB2EBC43-7F5D-40B9-AAA2-936D0FDD3638</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\vtquan\documents\visual studio 2012\Projects\Multiplication Pop Quiz\Multiplication Pop Quiz\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-07T19:27:11.743</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Multiplication Pop Quiz\Multiplication Pop Quiz\bin\Release\Multiplication Pop Quiz.exe">
+      <PackagePath>Multiplication Pop Quiz.exe</PackagePath>
+      <Modified>2013-04-07T19:27:11.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Multiplication Pop Quiz\Multiplication Pop Quiz\bin\Release\Multiplication Pop Quiz.pdb">
+      <PackagePath>Multiplication Pop Quiz.pdb</PackagePath>
+      <Modified>2013-04-07T19:27:11.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Multiplication Pop Quiz\Multiplication Pop Quiz\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-07T18:58:58.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Multiplication Pop Quiz\Multiplication Pop Quiz\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-07T18:59:21.874</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Multiplication Pop Quiz\Multiplication Pop Quiz\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-07T18:59:23.793</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Multiplication Pop Quiz\Multiplication Pop Quiz\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-07T18:59:26.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Multiplication Pop Quiz\Multiplication Pop Quiz\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-04-07T18:43:34.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Multiplication Pop Quiz\Multiplication Pop Quiz\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-04-07T18:30:56.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Multiplication Pop Quiz\Multiplication Pop Quiz\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T21:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Multiplication Pop Quiz\Multiplication Pop Quiz\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-04-07T18:48:27.634</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Multiplication Pop Quiz\Multiplication Pop Quiz\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-04-07T19:21:06.379</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

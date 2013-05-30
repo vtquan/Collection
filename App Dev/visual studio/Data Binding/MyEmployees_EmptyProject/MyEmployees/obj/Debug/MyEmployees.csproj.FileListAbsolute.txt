@@ -1,0 +1,73 @@
+c:\users\nikolame\documents\visual studio 2012\Projects\Binding\MyEmployees\MyEmployees\bin\Debug\MyEmployees.exe
+c:\users\nikolame\documents\visual studio 2012\Projects\Binding\MyEmployees\MyEmployees\bin\Debug\MyEmployees.pdb
+c:\users\nikolame\documents\visual studio 2012\Projects\Binding\MyEmployees\MyEmployees\bin\Debug\resources.pri
+c:\users\nikolame\documents\visual studio 2012\Projects\Binding\MyEmployees\MyEmployees\bin\Debug\AppxManifest.xml
+c:\users\nikolame\documents\visual studio 2012\Projects\Binding\MyEmployees\MyEmployees\bin\Debug\MyEmployees.build.appxrecipe
+c:\users\nikolame\documents\visual studio 2012\Projects\Binding\MyEmployees\MyEmployees\obj\Debug\App.g.i.cs
+c:\users\nikolame\documents\visual studio 2012\Projects\Binding\MyEmployees\MyEmployees\obj\Debug\App.g.cs
+c:\users\nikolame\documents\visual studio 2012\Projects\Binding\MyEmployees\MyEmployees\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\nikolame\documents\visual studio 2012\Projects\Binding\MyEmployees\MyEmployees\obj\Debug\Common\StandardStyles.g.cs
+c:\users\nikolame\documents\visual studio 2012\Projects\Binding\MyEmployees\MyEmployees\obj\Debug\MainPage.g.i.cs
+c:\users\nikolame\documents\visual studio 2012\Projects\Binding\MyEmployees\MyEmployees\obj\Debug\MainPage.g.cs
+c:\users\nikolame\documents\visual studio 2012\Projects\Binding\MyEmployees\MyEmployees\obj\Debug\XamlTypeInfo.g.cs
+c:\users\nikolame\documents\visual studio 2012\Projects\Binding\MyEmployees\MyEmployees\obj\Debug\App.xaml
+c:\users\nikolame\documents\visual studio 2012\Projects\Binding\MyEmployees\MyEmployees\obj\Debug\Common\StandardStyles.xaml
+c:\users\nikolame\documents\visual studio 2012\Projects\Binding\MyEmployees\MyEmployees\obj\Debug\MainPage.xaml
+c:\users\nikolame\documents\visual studio 2012\Projects\Binding\MyEmployees\MyEmployees\obj\Debug\MyEmployees.exe
+c:\users\nikolame\documents\visual studio 2012\Projects\Binding\MyEmployees\MyEmployees\obj\Debug\MyEmployees.pdb
+c:\users\nikolame\documents\visual studio 2012\Projects\Binding\MyEmployees\MyEmployees\obj\Debug\priconfig.xml
+c:\users\nikolame\documents\visual studio 2012\Projects\Binding\MyEmployees\MyEmployees\obj\Debug\layout.resfiles
+c:\users\nikolame\documents\visual studio 2012\Projects\Binding\MyEmployees\MyEmployees\obj\Debug\resources.resfiles
+c:\users\nikolame\documents\visual studio 2012\Projects\Binding\MyEmployees\MyEmployees\obj\Debug\pri.resfiles
+c:\users\nikolame\documents\visual studio 2012\Projects\Binding\MyEmployees\MyEmployees\obj\Debug\LanguageQualifiers.txt
+c:\users\nikolame\documents\visual studio 2012\Projects\Binding\MyEmployees\MyEmployees\obj\Debug\ProjectArchitectures.txt
+C:\Users\Nikola Metule\Desktop\WOWZAPP\DataBindingWithXAML\MyEmployees\MyEmployees\bin\Debug\MyEmployees.exe
+C:\Users\Nikola Metule\Desktop\WOWZAPP\DataBindingWithXAML\MyEmployees\MyEmployees\bin\Debug\MyEmployees.pdb
+C:\Users\Nikola Metule\Desktop\WOWZAPP\DataBindingWithXAML\MyEmployees\MyEmployees\bin\Debug\resources.pri
+C:\Users\Nikola Metule\Desktop\WOWZAPP\DataBindingWithXAML\MyEmployees\MyEmployees\bin\Debug\AppxManifest.xml
+C:\Users\Nikola Metule\Desktop\WOWZAPP\DataBindingWithXAML\MyEmployees\MyEmployees\bin\Debug\MyEmployees.build.appxrecipe
+C:\Users\Nikola Metule\Desktop\WOWZAPP\DataBindingWithXAML\MyEmployees\MyEmployees\obj\Debug\App.g.i.cs
+C:\Users\Nikola Metule\Desktop\WOWZAPP\DataBindingWithXAML\MyEmployees\MyEmployees\obj\Debug\App.g.cs
+C:\Users\Nikola Metule\Desktop\WOWZAPP\DataBindingWithXAML\MyEmployees\MyEmployees\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Nikola Metule\Desktop\WOWZAPP\DataBindingWithXAML\MyEmployees\MyEmployees\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Nikola Metule\Desktop\WOWZAPP\DataBindingWithXAML\MyEmployees\MyEmployees\obj\Debug\MainPage.g.i.cs
+C:\Users\Nikola Metule\Desktop\WOWZAPP\DataBindingWithXAML\MyEmployees\MyEmployees\obj\Debug\MainPage.g.cs
+C:\Users\Nikola Metule\Desktop\WOWZAPP\DataBindingWithXAML\MyEmployees\MyEmployees\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Nikola Metule\Desktop\WOWZAPP\DataBindingWithXAML\MyEmployees\MyEmployees\obj\Debug\App.xaml
+C:\Users\Nikola Metule\Desktop\WOWZAPP\DataBindingWithXAML\MyEmployees\MyEmployees\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Nikola Metule\Desktop\WOWZAPP\DataBindingWithXAML\MyEmployees\MyEmployees\obj\Debug\MainPage.xaml
+C:\Users\Nikola Metule\Desktop\WOWZAPP\DataBindingWithXAML\MyEmployees\MyEmployees\obj\Debug\MyEmployees.exe
+C:\Users\Nikola Metule\Desktop\WOWZAPP\DataBindingWithXAML\MyEmployees\MyEmployees\obj\Debug\MyEmployees.pdb
+C:\Users\Nikola Metule\Desktop\WOWZAPP\DataBindingWithXAML\MyEmployees\MyEmployees\obj\Debug\priconfig.xml
+C:\Users\Nikola Metule\Desktop\WOWZAPP\DataBindingWithXAML\MyEmployees\MyEmployees\obj\Debug\layout.resfiles
+C:\Users\Nikola Metule\Desktop\WOWZAPP\DataBindingWithXAML\MyEmployees\MyEmployees\obj\Debug\resources.resfiles
+C:\Users\Nikola Metule\Desktop\WOWZAPP\DataBindingWithXAML\MyEmployees\MyEmployees\obj\Debug\pri.resfiles
+C:\Users\Nikola Metule\Desktop\WOWZAPP\DataBindingWithXAML\MyEmployees\MyEmployees\obj\Debug\LanguageQualifiers.txt
+C:\Users\Nikola Metule\Desktop\WOWZAPP\DataBindingWithXAML\MyEmployees\MyEmployees\obj\Debug\ProjectArchitectures.txt
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\bin\Debug\MyEmployees.exe
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\bin\Debug\MyEmployees.pdb
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\bin\Debug\resources.pri
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\bin\Debug\AppxManifest.xml
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\bin\Debug\MyEmployees.build.appxrecipe
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\obj\Debug\App.g.i.cs
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\obj\Debug\App.g.cs
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\obj\Debug\MainPage.g.i.cs
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\obj\Debug\MainPage.g.cs
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\obj\Debug\App.xaml
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\obj\Debug\Common\StandardStyles.xaml
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\obj\Debug\MainPage.xaml
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\obj\Debug\MyEmployees.exe
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\obj\Debug\MyEmployees.pdb
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\obj\Debug\priconfig.xml
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\obj\Debug\layout.resfiles
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\obj\Debug\resources.resfiles
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\obj\Debug\pri.resfiles
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\obj\Debug\LanguageQualifiers.txt
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\obj\Debug\ProjectArchitectures.txt
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\obj\Debug\priconfig.xml.intermediate
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\obj\Debug\layout.resfiles.intermediate
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\obj\Debug\resources.resfiles.intermediate
+C:\Users\quanvt\Desktop\Data Binding\MyEmployees_EmptyProject\MyEmployees\obj\Debug\pri.resfiles.intermediate

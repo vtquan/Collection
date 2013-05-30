@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>QUAN-DESKTOP</Machine>
+    <WindowsUser>vtquan</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>F7D118C0FA1A8CE0AFD858FDF139AA8E5C9A30C87363E92FB179A7B06254BB13</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>19840ViquocQuan.BuCuaCCp_1.0.0.0_neutral__2apa7etkjmne0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>19840ViquocQuan.BuCuaCCp_2apa7etkjmne0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>19840ViquocQuan.BuCuaCCp</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=BB2EBC43-7F5D-40B9-AAA2-936D0FDD3638</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\vtquan\SkyDrive\transfer\BauCuaCaCop\BauCuaCaCop\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-07T20:21:18.527</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\BauCuaCaCop\BauCuaCaCop\bin\Release\BauCuaCaCop.exe">
+      <PackagePath>BauCuaCaCop.exe</PackagePath>
+      <Modified>2013-04-07T20:21:16.986</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\BauCuaCaCop\BauCuaCaCop\bin\Release\BauCuaCaCop.pdb">
+      <PackagePath>BauCuaCaCop.pdb</PackagePath>
+      <Modified>2013-04-07T20:21:16.966</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+      <Modified>2013-01-24T15:28:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+      <Modified>2013-01-24T15:28:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.xml">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.xml</PackagePath>
+      <Modified>2013-01-24T15:31:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.xml">
+      <PackagePath>MicrosoftAdvertising.xml</PackagePath>
+      <Modified>2013-01-24T15:31:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+      <Modified>2013-01-24T14:37:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xaml">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xaml</PackagePath>
+      <Modified>2013-01-24T14:37:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSAdvertisingXaml\6.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+      <Modified>2013-01-24T14:37:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\BauCuaCaCop\BauCuaCaCop\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-07T20:19:15.129</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\BauCuaCaCop\BauCuaCaCop\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-07T20:19:17.154</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\BauCuaCaCop\BauCuaCaCop\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-07T20:19:19.341</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\BauCuaCaCop\BauCuaCaCop\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-07T20:19:22.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\BauCuaCaCop\BauCuaCaCop\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-04-03T03:18:15.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\BauCuaCaCop\BauCuaCaCop\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-04-03T03:17:55.450</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\BauCuaCaCop\BauCuaCaCop\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T21:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\BauCuaCaCop\BauCuaCaCop\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-04-07T20:09:08.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\BauCuaCaCop\BauCuaCaCop\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-04-07T20:21:17.040</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

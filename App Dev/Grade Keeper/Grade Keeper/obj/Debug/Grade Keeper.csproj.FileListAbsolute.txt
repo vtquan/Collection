@@ -1,0 +1,27 @@
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\bin\Debug\Grade Keeper.exe
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\bin\Debug\Grade Keeper.pdb
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\bin\Debug\resources.pri
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\bin\Debug\AppxManifest.xml
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\bin\Debug\Grade Keeper.build.appxrecipe
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\obj\Debug\App.g.i.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\obj\Debug\App.g.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\obj\Debug\Common\StandardStyles.g.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\obj\Debug\MainPage.g.i.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\obj\Debug\MainPage.g.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\obj\Debug\XamlTypeInfo.g.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\obj\Debug\App.xaml
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\obj\Debug\Common\StandardStyles.xaml
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\obj\Debug\MainPage.xaml
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\obj\Debug\Grade Keeper.exe
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\obj\Debug\Grade Keeper.pdb
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\obj\Debug\priconfig.xml.intermediate
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\obj\Debug\layout.resfiles.intermediate
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\obj\Debug\resources.resfiles.intermediate
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\obj\Debug\pri.resfiles.intermediate
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\obj\Debug\priconfig.xml
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\obj\Debug\layout.resfiles
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\obj\Debug\resources.resfiles
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\obj\Debug\pri.resfiles
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\obj\Debug\LanguageQualifiers.txt
+c:\users\vtquan\documents\visual studio 2012\Projects\Grade Keeper\Grade Keeper\obj\Debug\ProjectArchitectures.txt

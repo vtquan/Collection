@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>QUAN-DESKTOP</Machine>
+    <WindowsUser>vtquan</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>05FADC5A71341787583082CAC50A42B764A75A4047CAD9DF254309345BC99BDA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>feb3a0fd-80a5-4772-ad63-246d89f17df5_1.0.0.0_neutral__7c80q3n6bg1gt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>feb3a0fd-80a5-4772-ad63-246d89f17df5_7c80q3n6bg1gt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>feb3a0fd-80a5-4772-ad63-246d89f17df5</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=vtquan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-06T19:48:50.007</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\bin\Release\ZeldaMusic.exe">
+      <PackagePath>ZeldaMusic.exe</PackagePath>
+      <Modified>2013-04-06T19:48:49.859</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\bin\Release\ZeldaMusic.pdb">
+      <PackagePath>ZeldaMusic.pdb</PackagePath>
+      <Modified>2013-04-06T19:48:49.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-06T19:42:10.906</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-06T19:42:07.622</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-06T19:42:50.265</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-06T19:42:13.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\Assets\Musics\Bolero_of_Fire.mp3">
+      <PackagePath>Assets\Musics\Bolero_of_Fire.mp3</PackagePath>
+      <Modified>2013-04-06T18:44:57.443</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\Assets\Musics\Lon_Lon_Ranch.mp3">
+      <PackagePath>Assets\Musics\Lon_Lon_Ranch.mp3</PackagePath>
+      <Modified>2013-04-06T18:44:57.446</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\Assets\Musics\Lost_Woods.mp3">
+      <PackagePath>Assets\Musics\Lost_Woods.mp3</PackagePath>
+      <Modified>2013-04-06T18:44:57.448</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\Assets\Musics\Minuet_of_Forest.mp3">
+      <PackagePath>Assets\Musics\Minuet_of_Forest.mp3</PackagePath>
+      <Modified>2013-04-06T18:44:57.450</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\Assets\Musics\Nocturne_of_Shadow.mp3">
+      <PackagePath>Assets\Musics\Nocturne_of_Shadow.mp3</PackagePath>
+      <Modified>2013-04-06T18:44:57.451</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\Assets\Musics\Ocarina_-_Epona%27s_Song.mp3">
+      <PackagePath>Assets\Musics\Ocarina_-_Epona%27s_Song.mp3</PackagePath>
+      <Modified>2013-04-06T18:44:57.453</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\Assets\Musics\Ocarina_-_Saria%27s_Song.mp3">
+      <PackagePath>Assets\Musics\Ocarina_-_Saria%27s_Song.mp3</PackagePath>
+      <Modified>2013-04-06T18:44:57.454</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\Assets\Musics\Ocarina_-_Song_of_Storms.mp3">
+      <PackagePath>Assets\Musics\Ocarina_-_Song_of_Storms.mp3</PackagePath>
+      <Modified>2013-04-06T18:44:57.456</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\Assets\Musics\Ocarina_-_Song_of_Time.mp3">
+      <PackagePath>Assets\Musics\Ocarina_-_Song_of_Time.mp3</PackagePath>
+      <Modified>2013-04-06T18:44:57.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\Assets\Musics\Ocarina_-_Sun%27s_Song.mp3">
+      <PackagePath>Assets\Musics\Ocarina_-_Sun%27s_Song.mp3</PackagePath>
+      <Modified>2013-04-06T18:44:57.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\Assets\Musics\Ocarina_-_Zelda%27s_Lullaby.mp3">
+      <PackagePath>Assets\Musics\Ocarina_-_Zelda%27s_Lullaby.mp3</PackagePath>
+      <Modified>2013-04-06T18:44:57.461</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\Assets\Musics\Prelude_of_Light.mp3">
+      <PackagePath>Assets\Musics\Prelude_of_Light.mp3</PackagePath>
+      <Modified>2013-04-06T18:44:57.463</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\Assets\Musics\Requiem_of_Spirit.mp3">
+      <PackagePath>Assets\Musics\Requiem_of_Spirit.mp3</PackagePath>
+      <Modified>2013-04-06T18:44:57.465</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\Assets\Musics\Serenade_of_Water.mp3">
+      <PackagePath>Assets\Musics\Serenade_of_Water.mp3</PackagePath>
+      <Modified>2013-04-06T18:44:57.466</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\Assets\Musics\Temple_of_Time.mp3">
+      <PackagePath>Assets\Musics\Temple_of_Time.mp3</PackagePath>
+      <Modified>2013-04-06T18:44:57.469</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\Assets\Musics\Windmill_Hut.mp3">
+      <PackagePath>Assets\Musics\Windmill_Hut.mp3</PackagePath>
+      <Modified>2013-04-06T18:44:57.471</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\Assets\Musics\Zelda%27s_Theme.mp3">
+      <PackagePath>Assets\Musics\Zelda%27s_Theme.mp3</PackagePath>
+      <Modified>2013-04-06T18:44:57.474</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-04-06T18:32:32.885</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-04-06T18:31:50.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T21:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-04-06T18:50:51.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaMusic\ZeldaMusic\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-04-06T19:46:33.701</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

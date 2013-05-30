@@ -1,0 +1,23 @@
+c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\bin\Debug\Memo Sync.exe
+c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\bin\Debug\Memo Sync.pdb
+c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\bin\Debug\resources.pri
+c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\bin\Debug\AppxManifest.xml
+c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\bin\Debug\Memo Sync.build.appxrecipe
+c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\obj\Debug\App.g.i.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\obj\Debug\App.g.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\obj\Debug\Common\StandardStyles.g.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\obj\Debug\MainPage.g.i.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\obj\Debug\MainPage.g.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\obj\Debug\XamlTypeInfo.g.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\obj\Debug\App.xaml
+c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\obj\Debug\Common\StandardStyles.xaml
+c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\obj\Debug\MainPage.xaml
+c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\obj\Debug\Memo Sync.exe
+c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\obj\Debug\Memo Sync.pdb
+c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\obj\Debug\priconfig.xml
+c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\obj\Debug\layout.resfiles
+c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\obj\Debug\resources.resfiles
+c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\obj\Debug\pri.resfiles
+c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\obj\Debug\LanguageQualifiers.txt
+c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>QUAN-LAPTOP</Machine>
+    <WindowsUser>quanvt</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>8E7BB705428721C40460F08050D4ED0D3724DB1D23953785E2FE3C1D2534FE1B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>19840ViquocQuan.NorthAmericaFlags_1.0.0.0_neutral__2apa7etkjmne0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>19840ViquocQuan.NorthAmericaFlags_2apa7etkjmne0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>19840ViquocQuan.NorthAmericaFlags</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=BB2EBC43-7F5D-40B9-AAA2-936D0FDD3638</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-12T16:45:36.515</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\bin\Release\Continent Flags.exe">
+      <PackagePath>Continent Flags.exe</PackagePath>
+      <Modified>2013-04-12T16:51:18.686</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\bin\Release\Continent Flags.pdb">
+      <PackagePath>Continent Flags.pdb</PackagePath>
+      <Modified>2013-04-12T16:51:18.625</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\Flags\AntiguaBarbuda.gif">
+      <PackagePath>Assets\Flags\AntiguaBarbuda.gif</PackagePath>
+      <Modified>2013-04-11T01:18:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\Flags\Bahamas.gif">
+      <PackagePath>Assets\Flags\Bahamas.gif</PackagePath>
+      <Modified>2013-04-11T01:18:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\Flags\Barbados.gif">
+      <PackagePath>Assets\Flags\Barbados.gif</PackagePath>
+      <Modified>2013-04-11T01:18:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\Flags\Belize.gif">
+      <PackagePath>Assets\Flags\Belize.gif</PackagePath>
+      <Modified>2013-04-11T01:18:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\Flags\Canada.gif">
+      <PackagePath>Assets\Flags\Canada.gif</PackagePath>
+      <Modified>2013-04-11T01:18:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\Flags\Costa Rica.gif">
+      <PackagePath>Assets\Flags\Costa Rica.gif</PackagePath>
+      <Modified>2013-04-11T01:18:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\Flags\Cuba.gif">
+      <PackagePath>Assets\Flags\Cuba.gif</PackagePath>
+      <Modified>2013-04-11T01:18:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\Flags\Dominica.gif">
+      <PackagePath>Assets\Flags\Dominica.gif</PackagePath>
+      <Modified>2013-04-11T01:18:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\Flags\Dominican Republic.gif">
+      <PackagePath>Assets\Flags\Dominican Republic.gif</PackagePath>
+      <Modified>2013-04-11T01:18:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\Flags\El Salvador.gif">
+      <PackagePath>Assets\Flags\El Salvador.gif</PackagePath>
+      <Modified>2013-04-11T01:18:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\Flags\Grenada.gif">
+      <PackagePath>Assets\Flags\Grenada.gif</PackagePath>
+      <Modified>2013-04-11T01:18:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\Flags\Guatemala.gif">
+      <PackagePath>Assets\Flags\Guatemala.gif</PackagePath>
+      <Modified>2013-04-11T01:18:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\Flags\Haiti.gif">
+      <PackagePath>Assets\Flags\Haiti.gif</PackagePath>
+      <Modified>2013-04-11T01:18:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\Flags\Honduras.gif">
+      <PackagePath>Assets\Flags\Honduras.gif</PackagePath>
+      <Modified>2013-04-11T01:18:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\Flags\Jamaica.gif">
+      <PackagePath>Assets\Flags\Jamaica.gif</PackagePath>
+      <Modified>2013-04-11T01:18:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\Flags\Mexico.gif">
+      <PackagePath>Assets\Flags\Mexico.gif</PackagePath>
+      <Modified>2013-04-11T01:18:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\Flags\Nicaragua.gif">
+      <PackagePath>Assets\Flags\Nicaragua.gif</PackagePath>
+      <Modified>2013-04-11T01:18:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\Flags\Panama.gif">
+      <PackagePath>Assets\Flags\Panama.gif</PackagePath>
+      <Modified>2013-04-11T01:18:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\Flags\St. Kitts and Nevis.gif">
+      <PackagePath>Assets\Flags\St. Kitts and Nevis.gif</PackagePath>
+      <Modified>2013-04-11T01:18:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\Flags\St. Lucia.gif">
+      <PackagePath>Assets\Flags\St. Lucia.gif</PackagePath>
+      <Modified>2013-04-11T01:18:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\Flags\St. Vincent and the Grenadines.gif">
+      <PackagePath>Assets\Flags\St. Vincent and the Grenadines.gif</PackagePath>
+      <Modified>2013-04-11T01:18:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\Flags\Trinidad and Tobago.gif">
+      <PackagePath>Assets\Flags\Trinidad and Tobago.gif</PackagePath>
+      <Modified>2013-04-11T01:18:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\Flags\U.S.A..gif">
+      <PackagePath>Assets\Flags\U.S.A..gif</PackagePath>
+      <Modified>2013-04-11T01:18:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-11T17:10:45.273</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-11T17:10:43.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-11T17:10:41.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-11T17:10:38.659</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-04-11T01:19:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-04-11T00:49:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T21:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-04-11T21:31:09.415</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-04-11T21:42:56.683</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

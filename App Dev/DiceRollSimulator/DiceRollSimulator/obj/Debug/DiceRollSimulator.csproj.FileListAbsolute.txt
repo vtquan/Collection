@@ -1,0 +1,46 @@
+c:\users\quanvt\documents\visual studio 2012\Projects\DiceRollSimulator\DiceRollSimulator\bin\Debug\DiceRollSimulator.exe
+c:\users\quanvt\documents\visual studio 2012\Projects\DiceRollSimulator\DiceRollSimulator\bin\Debug\DiceRollSimulator.pdb
+c:\users\quanvt\documents\visual studio 2012\Projects\DiceRollSimulator\DiceRollSimulator\bin\Debug\resources.pri
+c:\users\quanvt\documents\visual studio 2012\Projects\DiceRollSimulator\DiceRollSimulator\bin\Debug\AppxManifest.xml
+c:\users\quanvt\documents\visual studio 2012\Projects\DiceRollSimulator\DiceRollSimulator\bin\Debug\DiceRollSimulator.build.appxrecipe
+c:\users\quanvt\documents\visual studio 2012\Projects\DiceRollSimulator\DiceRollSimulator\obj\Debug\App.g.i.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\DiceRollSimulator\DiceRollSimulator\obj\Debug\App.g.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\DiceRollSimulator\DiceRollSimulator\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\DiceRollSimulator\DiceRollSimulator\obj\Debug\Common\StandardStyles.g.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\DiceRollSimulator\DiceRollSimulator\obj\Debug\MainPage.g.i.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\DiceRollSimulator\DiceRollSimulator\obj\Debug\MainPage.g.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\DiceRollSimulator\DiceRollSimulator\obj\Debug\XamlTypeInfo.g.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\DiceRollSimulator\DiceRollSimulator\obj\Debug\App.xaml
+c:\users\quanvt\documents\visual studio 2012\Projects\DiceRollSimulator\DiceRollSimulator\obj\Debug\Common\StandardStyles.xaml
+c:\users\quanvt\documents\visual studio 2012\Projects\DiceRollSimulator\DiceRollSimulator\obj\Debug\MainPage.xaml
+c:\users\quanvt\documents\visual studio 2012\Projects\DiceRollSimulator\DiceRollSimulator\obj\Debug\DiceRollSimulator.exe
+c:\users\quanvt\documents\visual studio 2012\Projects\DiceRollSimulator\DiceRollSimulator\obj\Debug\DiceRollSimulator.pdb
+c:\users\quanvt\documents\visual studio 2012\Projects\DiceRollSimulator\DiceRollSimulator\obj\Debug\priconfig.xml
+c:\users\quanvt\documents\visual studio 2012\Projects\DiceRollSimulator\DiceRollSimulator\obj\Debug\layout.resfiles
+c:\users\quanvt\documents\visual studio 2012\Projects\DiceRollSimulator\DiceRollSimulator\obj\Debug\resources.resfiles
+c:\users\quanvt\documents\visual studio 2012\Projects\DiceRollSimulator\DiceRollSimulator\obj\Debug\pri.resfiles
+c:\users\quanvt\documents\visual studio 2012\Projects\DiceRollSimulator\DiceRollSimulator\obj\Debug\LanguageQualifiers.txt
+c:\users\quanvt\documents\visual studio 2012\Projects\DiceRollSimulator\DiceRollSimulator\obj\Debug\ProjectArchitectures.txt
+C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\bin\Debug\DiceRollSimulator.exe
+C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\bin\Debug\DiceRollSimulator.pdb
+C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\bin\Debug\resources.pri
+C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\bin\Debug\AppxManifest.xml
+C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\bin\Debug\DiceRollSimulator.build.appxrecipe
+C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\obj\Debug\App.g.i.cs
+C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\obj\Debug\App.g.cs
+C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\obj\Debug\MainPage.g.i.cs
+C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\obj\Debug\MainPage.g.cs
+C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\obj\Debug\App.xaml
+C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\obj\Debug\Common\StandardStyles.xaml
+C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\obj\Debug\MainPage.xaml
+C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\obj\Debug\DiceRollSimulator.exe
+C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\obj\Debug\DiceRollSimulator.pdb
+C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\obj\Debug\priconfig.xml
+C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\obj\Debug\layout.resfiles
+C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\obj\Debug\resources.resfiles
+C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\obj\Debug\pri.resfiles
+C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\obj\Debug\LanguageQualifiers.txt
+C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\obj\Debug\ProjectArchitectures.txt

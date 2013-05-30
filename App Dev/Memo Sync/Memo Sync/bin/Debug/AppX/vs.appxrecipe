@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>QUAN-DESKTOP</Machine>
+    <WindowsUser>vtquan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>E932A557F5F157CA187C86E6A4BA158A32FDECEFA80FF4AD6D0622A6FE5A4180</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>237b4f97-2623-4de5-a650-f850caa691f8_1.0.0.0_neutral__7c80q3n6bg1gt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>237b4f97-2623-4de5-a650-f850caa691f8_7c80q3n6bg1gt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>237b4f97-2623-4de5-a650-f850caa691f8</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=vtquan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-28T00:30:26.759</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\bin\Debug\Memo Sync.exe">
+      <PackagePath>Memo Sync.exe</PackagePath>
+      <Modified>2013-04-28T00:32:31.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\bin\Debug\Memo Sync.pdb">
+      <PackagePath>Memo Sync.pdb</PackagePath>
+      <Modified>2013-04-28T00:32:31.079</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T01:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T01:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T01:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T01:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-04-28T00:30:17.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-04-28T00:30:00.722</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T21:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-04-28T00:31:58.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\vtquan\documents\visual studio 2012\Projects\Memo Sync\Memo Sync\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-04-28T00:30:26.688</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

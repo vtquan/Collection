@@ -1,0 +1,43 @@
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\ZeldaSoundBoard.exe
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\ZeldaSoundBoard.pdb
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\resources.pri
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\AppxManifest.xml
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\ZeldaSoundBoard.build.appxrecipe
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Debug\App.g.i.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Debug\App.g.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Debug\Common\StandardStyles.g.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Debug\MainPage.g.i.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Debug\MainPage.g.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Debug\XamlTypeInfo.g.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Debug\App.xaml
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Debug\Common\StandardStyles.xaml
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Debug\MainPage.xaml
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Debug\ZeldaSoundBoard.exe
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Debug\ZeldaSoundBoard.pdb
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Debug\priconfig.xml.intermediate
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Debug\layout.resfiles.intermediate
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Debug\resources.resfiles.intermediate
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Debug\pri.resfiles.intermediate
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Debug\priconfig.xml
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Debug\layout.resfiles
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Debug\resources.resfiles
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Debug\pri.resfiles
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Debug\LanguageQualifiers.txt
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Debug\ProjectArchitectures.txt
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\Assets\Sound Effects\bigfall.wav
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\Assets\Sound Effects\bigslash.wav
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\Assets\Sound Effects\heylisten.wav
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\Assets\Sound Effects\hurt.wav
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\Assets\Sound Effects\jump.wav
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\Assets\Sound Effects\longshot.wav
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\Assets\Sound Effects\look!.wav
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\Assets\Sound Effects\mastersword.wav
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\Assets\Sound Effects\navihello.wav
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\Assets\Sound Effects\pullup.wav
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\Assets\Sound Effects\roll.wav
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\Assets\Sound Effects\scream.wav
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\Assets\Sound Effects\spinslash.wav
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\Assets\Sound Effects\triplehit.wav
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\Assets\Sound Effects\wallgrab.wav
+c:\users\vtquan\documents\visual studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\Assets\Sound Effects\watchout!.wav

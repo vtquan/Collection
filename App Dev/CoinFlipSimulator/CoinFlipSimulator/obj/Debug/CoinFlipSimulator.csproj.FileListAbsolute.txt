@@ -1,0 +1,54 @@
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\bin\Debug\CoinFlipSimulator.exe
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\bin\Debug\CoinFlipSimulator.pdb
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\bin\Debug\resources.pri
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\bin\Debug\AppxManifest.xml
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\bin\Debug\CoinFlipSimulator.build.appxrecipe
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\App.g.i.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\App.g.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\Common\StandardStyles.g.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\MainPage.g.i.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\MainPage.g.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\XamlTypeInfo.g.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\App.xaml
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\Common\StandardStyles.xaml
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\MainPage.xaml
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\CoinFlipSimulator.exe
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\CoinFlipSimulator.pdb
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\priconfig.xml.intermediate
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\layout.resfiles.intermediate
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\resources.resfiles.intermediate
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\pri.resfiles.intermediate
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\priconfig.xml
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\layout.resfiles
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\resources.resfiles
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\pri.resfiles
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\LanguageQualifiers.txt
+c:\users\quanvt\documents\visual studio 2012\Projects\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\ProjectArchitectures.txt
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\bin\Debug\CoinFlipSimulator.exe
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\bin\Debug\CoinFlipSimulator.pdb
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\bin\Debug\resources.pri
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\bin\Debug\AppxManifest.xml
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\bin\Debug\CoinFlipSimulator.build.appxrecipe
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\App.g.i.cs
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\App.g.cs
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\MainPage.g.i.cs
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\MainPage.g.cs
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\App.xaml
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\Common\StandardStyles.xaml
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\MainPage.xaml
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\CoinFlipSimulator.exe
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\CoinFlipSimulator.pdb
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\priconfig.xml.intermediate
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\layout.resfiles.intermediate
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\resources.resfiles.intermediate
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\pri.resfiles.intermediate
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\priconfig.xml
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\layout.resfiles
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\resources.resfiles
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\pri.resfiles
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\LanguageQualifiers.txt
+C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\obj\Debug\ProjectArchitectures.txt

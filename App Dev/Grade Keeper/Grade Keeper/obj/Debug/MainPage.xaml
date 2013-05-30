@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="Grade_Keeper.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Grade_Keeper"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+    	<ListView HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="237" Margin="142,82,0,0">
+    		<ListView.DataContext>
+    			<Button Background="White" AllowDrop="True" BorderBrush="Red" Content="dfsdf"/>
+    		</ListView.DataContext>
+    	</ListView>
+
+    </Grid>
+</Page>
+

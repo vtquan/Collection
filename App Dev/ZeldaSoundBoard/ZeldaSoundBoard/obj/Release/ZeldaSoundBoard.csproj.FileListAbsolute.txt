@@ -1,0 +1,43 @@
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Release\Assets\Sound Effects\bigfall.wav
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Release\Assets\Sound Effects\bigslash.wav
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Release\Assets\Sound Effects\heylisten.wav
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Release\Assets\Sound Effects\hurt.wav
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Release\Assets\Sound Effects\jump.wav
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Release\Assets\Sound Effects\longshot.wav
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Release\Assets\Sound Effects\look!.wav
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Release\Assets\Sound Effects\mastersword.wav
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Release\Assets\Sound Effects\navihello.wav
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Release\Assets\Sound Effects\pullup.wav
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Release\Assets\Sound Effects\roll.wav
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Release\Assets\Sound Effects\scream.wav
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Release\Assets\Sound Effects\spinslash.wav
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Release\Assets\Sound Effects\triplehit.wav
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Release\Assets\Sound Effects\wallgrab.wav
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Release\Assets\Sound Effects\watchout!.wav
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Release\ZeldaSoundBoard.exe
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Release\ZeldaSoundBoard.pdb
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Release\resources.pri
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Release\AppxManifest.xml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Release\ZeldaSoundBoard.build.appxrecipe
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Release\App.g.i.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Release\App.g.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Release\Common\StandardStyles.g.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Release\MainPage.g.i.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Release\MainPage.g.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Release\XamlTypeInfo.g.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Release\App.xaml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Release\Common\StandardStyles.xaml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Release\MainPage.xaml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Release\ZeldaSoundBoard.exe
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Release\ZeldaSoundBoard.pdb
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Release\priconfig.xml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Release\layout.resfiles
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Release\resources.resfiles
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Release\pri.resfiles
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Release\LanguageQualifiers.txt
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Release\ProjectArchitectures.txt
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Release\priconfig.xml.intermediate
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Release\layout.resfiles.intermediate
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Release\resources.resfiles.intermediate
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\obj\Release\pri.resfiles.intermediate

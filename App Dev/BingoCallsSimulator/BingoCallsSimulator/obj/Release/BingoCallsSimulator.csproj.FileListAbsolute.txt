@@ -1,0 +1,24 @@
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\bin\Release\Assets\Bingo Chip.png
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\bin\Release\BingoCallsSimulator.exe
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\bin\Release\BingoCallsSimulator.pdb
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\bin\Release\resources.pri
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\bin\Release\AppxManifest.xml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\bin\Release\BingoCallsSimulator.build.appxrecipe
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\obj\Release\App.g.i.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\obj\Release\App.g.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\obj\Release\Common\StandardStyles.g.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\obj\Release\MainPage.g.i.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\obj\Release\MainPage.g.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\obj\Release\XamlTypeInfo.g.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\obj\Release\App.xaml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\obj\Release\Common\StandardStyles.xaml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\obj\Release\MainPage.xaml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\obj\Release\BingoCallsSimulator.exe
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\obj\Release\BingoCallsSimulator.pdb
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\obj\Release\priconfig.xml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\obj\Release\layout.resfiles
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\obj\Release\resources.resfiles
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\obj\Release\pri.resfiles
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\obj\Release\LanguageQualifiers.txt
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\obj\Release\ProjectArchitectures.txt

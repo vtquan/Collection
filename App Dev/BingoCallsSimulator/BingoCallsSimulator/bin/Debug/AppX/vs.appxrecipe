@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>QUAN-DESKTOP</Machine>
+    <WindowsUser>vtquan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>D9E0CF47C107186F48324287C64C0C293BE01E15A2169CCA5A9111E78034DFCB</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>19840ViquocQuan.BingoCallsSimulator_1.0.0.1_neutral__2apa7etkjmne0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>19840ViquocQuan.BingoCallsSimulator_2apa7etkjmne0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>19840ViquocQuan.BingoCallsSimulator</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=BB2EBC43-7F5D-40B9-AAA2-936D0FDD3638</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.1</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-28T00:09:59.040</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\bin\Debug\BingoCallsSimulator.exe">
+      <PackagePath>BingoCallsSimulator.exe</PackagePath>
+      <Modified>2013-04-28T00:09:58.954</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\bin\Debug\BingoCallsSimulator.pdb">
+      <PackagePath>BingoCallsSimulator.pdb</PackagePath>
+      <Modified>2013-04-28T00:09:58.938</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\Assets\Bingo Chip.png">
+      <PackagePath>Assets\Bingo Chip.png</PackagePath>
+      <Modified>2013-04-25T17:47:33.024</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-25T17:49:30.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-25T17:49:32.193</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-25T17:49:35.069</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-25T17:49:28.391</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-04-25T16:53:51.595</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-04-25T16:53:32.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T21:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-04-25T17:48:09.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\BingoCallsSimulator\BingoCallsSimulator\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-04-28T00:09:59.001</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

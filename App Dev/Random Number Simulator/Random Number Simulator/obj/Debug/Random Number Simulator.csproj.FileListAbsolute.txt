@@ -1,0 +1,23 @@
+c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\bin\Debug\Random Number Simulator.exe
+c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\bin\Debug\Random Number Simulator.pdb
+c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\bin\Debug\resources.pri
+c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\bin\Debug\AppxManifest.xml
+c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\bin\Debug\Random Number Simulator.build.appxrecipe
+c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\obj\Debug\App.g.i.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\obj\Debug\App.g.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\obj\Debug\Common\StandardStyles.g.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\obj\Debug\MainPage.g.i.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\obj\Debug\MainPage.g.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\obj\Debug\XamlTypeInfo.g.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\obj\Debug\App.xaml
+c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\obj\Debug\Common\StandardStyles.xaml
+c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\obj\Debug\MainPage.xaml
+c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\obj\Debug\Random Number Simulator.exe
+c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\obj\Debug\Random Number Simulator.pdb
+c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\obj\Debug\priconfig.xml
+c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\obj\Debug\layout.resfiles
+c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\obj\Debug\resources.resfiles
+c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\obj\Debug\pri.resfiles
+c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\obj\Debug\LanguageQualifiers.txt
+c:\users\vtquan\documents\visual studio 2012\Projects\Random Number Simulator\Random Number Simulator\obj\Debug\ProjectArchitectures.txt

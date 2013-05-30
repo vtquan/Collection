@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>QUAN-DESKTOP</Machine>
+    <WindowsUser>vtquan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>EE62188E8934A80721B4FCFDDC05F25A9C4C9A22F65DBB11B9746345EAE4F709</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>45707728-de88-4270-88d2-6c2458bd44ee_1.0.0.0_neutral__51x9vbdkyqbsa</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>45707728-de88-4270-88d2-6c2458bd44ee_51x9vbdkyqbsa!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>45707728-de88-4270-88d2-6c2458bd44ee</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=quanvt</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-25T17:06:30.318</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\bin\Debug\DiceRollSimulator.exe">
+      <PackagePath>DiceRollSimulator.exe</PackagePath>
+      <Modified>2013-04-11T22:36:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\bin\Debug\DiceRollSimulator.pdb">
+      <PackagePath>DiceRollSimulator.pdb</PackagePath>
+      <Modified>2013-04-11T22:36:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-25T17:05:47.368</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-25T17:05:48.924</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-25T17:05:50.521</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-25T17:05:45.739</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-04-11T22:20:47.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-04-11T21:56:49.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T23:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-04-11T22:27:07.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\DiceRollSimulator\DiceRollSimulator\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-04-25T17:06:30.279</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>QUAN-DESKTOP</Machine>
+    <WindowsUser>vtquan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>284C500539958AF14A99D28BCC52CCF13B8DEFD63A48F348C4F2F01EB554D6F2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9f5da1ed-45a9-437f-b338-704d99013e4a_1.0.0.0_neutral__7c80q3n6bg1gt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9f5da1ed-45a9-437f-b338-704d99013e4a_7c80q3n6bg1gt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9f5da1ed-45a9-437f-b338-704d99013e4a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=vtquan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-04-06T18:27:59.758</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\ZeldaSoundBoard.exe">
+      <PackagePath>ZeldaSoundBoard.exe</PackagePath>
+      <Modified>2013-04-06T18:27:59.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\ZeldaSoundBoard.pdb">
+      <PackagePath>ZeldaSoundBoard.pdb</PackagePath>
+      <Modified>2013-04-06T18:27:59.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T01:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T01:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T01:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T01:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\Assets\Sound Effects\bigfall.wav">
+      <PackagePath>Assets\Sound Effects\bigfall.wav</PackagePath>
+      <Modified>2013-04-06T18:05:59.586</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\Assets\Sound Effects\bigslash.wav">
+      <PackagePath>Assets\Sound Effects\bigslash.wav</PackagePath>
+      <Modified>2013-04-06T18:05:59.588</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\Assets\Sound Effects\heylisten.wav">
+      <PackagePath>Assets\Sound Effects\heylisten.wav</PackagePath>
+      <Modified>2013-04-06T18:05:59.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\Assets\Sound Effects\hurt.wav">
+      <PackagePath>Assets\Sound Effects\hurt.wav</PackagePath>
+      <Modified>2013-04-06T18:05:59.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\Assets\Sound Effects\jump.wav">
+      <PackagePath>Assets\Sound Effects\jump.wav</PackagePath>
+      <Modified>2013-04-06T18:05:59.593</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\Assets\Sound Effects\longshot.wav">
+      <PackagePath>Assets\Sound Effects\longshot.wav</PackagePath>
+      <Modified>2013-04-06T18:05:59.594</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\Assets\Sound Effects\look!.wav">
+      <PackagePath>Assets\Sound Effects\look!.wav</PackagePath>
+      <Modified>2013-04-06T18:05:59.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\Assets\Sound Effects\mastersword.wav">
+      <PackagePath>Assets\Sound Effects\mastersword.wav</PackagePath>
+      <Modified>2013-04-06T18:05:59.708</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\Assets\Sound Effects\navihello.wav">
+      <PackagePath>Assets\Sound Effects\navihello.wav</PackagePath>
+      <Modified>2013-04-06T18:05:59.710</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\Assets\Sound Effects\pullup.wav">
+      <PackagePath>Assets\Sound Effects\pullup.wav</PackagePath>
+      <Modified>2013-04-06T18:05:59.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\Assets\Sound Effects\roll.wav">
+      <PackagePath>Assets\Sound Effects\roll.wav</PackagePath>
+      <Modified>2013-04-06T18:05:59.713</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\Assets\Sound Effects\scream.wav">
+      <PackagePath>Assets\Sound Effects\scream.wav</PackagePath>
+      <Modified>2013-04-06T18:05:59.715</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\Assets\Sound Effects\spinslash.wav">
+      <PackagePath>Assets\Sound Effects\spinslash.wav</PackagePath>
+      <Modified>2013-04-06T18:05:59.717</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\Assets\Sound Effects\triplehit.wav">
+      <PackagePath>Assets\Sound Effects\triplehit.wav</PackagePath>
+      <Modified>2013-04-06T18:05:59.718</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\Assets\Sound Effects\wallgrab.wav">
+      <PackagePath>Assets\Sound Effects\wallgrab.wav</PackagePath>
+      <Modified>2013-04-06T18:05:59.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\Assets\Sound Effects\watchout!.wav">
+      <PackagePath>Assets\Sound Effects\watchout!.wav</PackagePath>
+      <Modified>2013-04-06T18:05:59.721</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\Assets\Sound Effects\market.mid">
+      <PackagePath>Assets\Sound Effects\market.mid</PackagePath>
+      <Modified>2013-04-06T18:27:48.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-04-06T17:50:51.145</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-04-06T17:48:47.179</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T21:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-04-06T18:14:05.532</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\ZeldaSoundBoard\ZeldaSoundBoard\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-04-06T18:27:59.588</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

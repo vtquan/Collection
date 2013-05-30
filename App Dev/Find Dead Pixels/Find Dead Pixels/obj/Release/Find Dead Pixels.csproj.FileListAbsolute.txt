@@ -1,0 +1,27 @@
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\bin\Release\Find Dead Pixels.exe
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\bin\Release\Find Dead Pixels.pdb
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\bin\Release\resources.pri
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\bin\Release\AppxManifest.xml
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\bin\Release\Find Dead Pixels.build.appxrecipe
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\obj\Release\App.g.i.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\obj\Release\App.g.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\obj\Release\Common\StandardStyles.g.i.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\obj\Release\Common\StandardStyles.g.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\obj\Release\MainPage.g.i.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\obj\Release\MainPage.g.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\obj\Release\XamlTypeInfo.g.cs
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\obj\Release\App.xaml
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\obj\Release\Common\StandardStyles.xaml
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\obj\Release\MainPage.xaml
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\obj\Release\Find Dead Pixels.exe
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\obj\Release\Find Dead Pixels.pdb
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\obj\Release\priconfig.xml.intermediate
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\obj\Release\layout.resfiles.intermediate
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\obj\Release\resources.resfiles.intermediate
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\obj\Release\pri.resfiles.intermediate
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\obj\Release\priconfig.xml
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\obj\Release\layout.resfiles
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\obj\Release\resources.resfiles
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\obj\Release\pri.resfiles
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\obj\Release\LanguageQualifiers.txt
+c:\users\vtquan\documents\visual studio 2012\Projects\Find Dead Pixels\Find Dead Pixels\obj\Release\ProjectArchitectures.txt
