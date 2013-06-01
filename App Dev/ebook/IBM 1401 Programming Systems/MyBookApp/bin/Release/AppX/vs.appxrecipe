@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>QUAN-DESKTOP</Machine>
+    <WindowsUser>vtquan</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>D4358736D42BA6A2AB0C664130EF35A3689E0824084C76E02B80087FF8A1C8D4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>19840ViquocQuan.IBM1401ProgrammingSystems_1.0.0.5_neutral__2apa7etkjmne0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>19840ViquocQuan.IBM1401ProgrammingSystems_2apa7etkjmne0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>19840ViquocQuan.IBM1401ProgrammingSystems</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=BB2EBC43-7F5D-40B9-AAA2-936D0FDD3638</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.5</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-01T19:17:14.272</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\bin\Release\MyBookApp.exe">
+      <PackagePath>MyBookApp.exe</PackagePath>
+      <Modified>2013-06-01T19:18:53.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\bin\Release\MyBookApp.pdb">
+      <PackagePath>MyBookApp.pdb</PackagePath>
+      <Modified>2013-06-01T19:18:53.974</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookLibrary\bin\Release\MyBookLibrary.pdb">
+      <PackagePath>MyBookLibrary.pdb</PackagePath>
+      <Modified>2013-05-27T20:06:53.137</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookLibrary\bin\Release\MyBookLibrary.dll">
+      <PackagePath>MyBookLibrary.dll</PackagePath>
+      <Modified>2013-05-27T20:06:53.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\Assets\Book\Cover.jpg">
+      <PackagePath>Assets\Book\Cover.jpg</PackagePath>
+      <Modified>2013-06-01T19:12:14.079</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\Assets\Books\BookCover.png">
+      <PackagePath>Assets\Books\BookCover.png</PackagePath>
+      <Modified>2013-05-14T18:10:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-27T21:39:21.359</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-27T21:37:56.928</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-27T21:41:57.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-27T21:38:04.387</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\Assets\Book\IBM 1401 Programming Systems.epub">
+      <PackagePath>Assets\Book\IBM 1401 Programming Systems.epub</PackagePath>
+      <Modified>2013-06-01T19:12:35.520</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-06-01T19:13:01.845</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-05-14T19:08:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\bin\Release\Views\BookPage.xaml">
+      <PackagePath>Views\BookPage.xaml</PackagePath>
+      <Modified>2013-05-27T20:47:07.336</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\bin\Release\Views\MainPage.xaml">
+      <PackagePath>Views\MainPage.xaml</PackagePath>
+      <Modified>2013-06-01T19:18:53.086</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-06-01T19:17:14.231</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\MyBookApp.csproj;neutral
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookLibrary\MyBookLibrary.csproj;neutral

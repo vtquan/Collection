@@ -1,0 +1,2 @@
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\A Study in Scarlet\MyBookApp\MyBookApp.csproj;neutral
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\A Study in Scarlet\MyBookLibrary\MyBookLibrary.csproj;neutral

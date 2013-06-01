@@ -1,0 +1,181 @@
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\bin\Release\MyBookApp.exe
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\bin\Release\MyBookApp.pdb
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\bin\Release\resources.pri
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\bin\Release\AppxManifest.xml
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\bin\Release\MyBookApp.build.appxrecipe
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\bin\Release\MyBookLibrary.dll
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\bin\Release\MyBookLibrary.pdb
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\bin\Release\MyBookLibrary.pri
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\MyBookApp.csprojResolveAssemblyReference.cache
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\App.g.i.cs
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\App.g.cs
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\Common\StandardStyles.g.cs
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\Views\BookPage.g.i.cs
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\Views\BookPage.g.cs
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\Views\MainPage.g.i.cs
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\Views\MainPage.g.cs
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\XamlTypeInfo.g.cs
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\App.xaml
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\Common\StandardStyles.xaml
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\Views\BookPage.xaml
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\Views\MainPage.xaml
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\MyBookApp.exe
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\MyBookApp.pdb
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\MyBookApp.csproj.GenerateResource.Cache
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\priconfig.xml.intermediate
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\layout.resfiles.intermediate
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\resources.resfiles.intermediate
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\pri.resfiles.intermediate
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\priconfig.xml
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\layout.resfiles
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\resources.resfiles
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\pri.resfiles
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\LanguageQualifiers.txt
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\obj\Release\ProjectArchitectures.txt
+C:\Users\vtquan\Desktop\MyBookAppTemplate_v1.1\MyBookApp\bin\Release\Assets\Book\Cover.jpg
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\MyBookApp.csprojResolveAssemblyReference.cache
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\App.g.i.cs
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\App.g.cs
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\Common\StandardStyles.g.cs
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\Views\BookPage.g.i.cs
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\Views\BookPage.g.cs
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\Views\MainPage.g.i.cs
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\Views\MainPage.g.cs
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\XamlTypeInfo.g.cs
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\App.xaml
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\Common\StandardStyles.xaml
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\Views\BookPage.xaml
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\Views\MainPage.xaml
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\MyBookApp.exe
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\MyBookApp.pdb
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\bin\Release\MyBookApp.exe
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\bin\Release\MyBookApp.pdb
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\bin\Release\resources.pri
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\bin\Release\AppxManifest.xml
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\bin\Release\MyBookApp.build.appxrecipe
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\bin\Release\MyBookLibrary.dll
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\bin\Release\MyBookLibrary.pdb
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\bin\Release\MyBookLibrary.pri
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\MyBookApp.csproj.GenerateResource.Cache
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\priconfig.xml.intermediate
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\layout.resfiles.intermediate
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\resources.resfiles.intermediate
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\pri.resfiles.intermediate
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\priconfig.xml
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\layout.resfiles
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\resources.resfiles
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\pri.resfiles
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\LanguageQualifiers.txt
+C:\Users\vtquan\Desktop\The Hound of the Baskervilles\MyBookApp\obj\Release\ProjectArchitectures.txt
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\bin\Release\Assets\Book\A Study in Scarlet - Sir Arthur Conan Doyle.epub
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\bin\Release\MyBookApp.exe
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\bin\Release\MyBookApp.pdb
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\bin\Release\resources.pri
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\bin\Release\AppxManifest.xml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\bin\Release\MyBookApp.build.appxrecipe
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\bin\Release\MyBookLibrary.dll
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\bin\Release\MyBookLibrary.pdb
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\bin\Release\MyBookLibrary.pri
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\MyBookApp.csprojResolveAssemblyReference.cache
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\App.g.i.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\App.g.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\Common\StandardStyles.g.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\Views\BookPage.g.i.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\Views\BookPage.g.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\Views\MainPage.g.i.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\Views\MainPage.g.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\XamlTypeInfo.g.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\App.xaml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\Common\StandardStyles.xaml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\Views\BookPage.xaml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\Views\MainPage.xaml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\MyBookApp.exe
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\MyBookApp.pdb
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\MyBookApp.csproj.GenerateResource.Cache
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\priconfig.xml.intermediate
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\layout.resfiles.intermediate
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\resources.resfiles.intermediate
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\pri.resfiles.intermediate
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\priconfig.xml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\layout.resfiles
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\resources.resfiles
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\pri.resfiles
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\LanguageQualifiers.txt
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\obj\Release\ProjectArchitectures.txt
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook\MyBookApp\bin\Release\Assets\Book\Cover.jpg
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\bin\Release\Assets\Book\Cover.jpg
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\bin\Release\MyBookApp.exe
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\bin\Release\MyBookApp.pdb
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\bin\Release\resources.pri
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\bin\Release\AppxManifest.xml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\bin\Release\MyBookApp.build.appxrecipe
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\bin\Release\MyBookLibrary.dll
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\bin\Release\MyBookLibrary.pdb
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\bin\Release\MyBookLibrary.pri
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\MyBookApp.csprojResolveAssemblyReference.cache
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\App.g.i.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\App.g.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\Common\StandardStyles.g.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\Views\BookPage.g.i.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\Views\BookPage.g.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\Views\MainPage.g.i.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\Views\MainPage.g.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\XamlTypeInfo.g.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\App.xaml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\Common\StandardStyles.xaml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\Views\BookPage.xaml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\Views\MainPage.xaml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\MyBookApp.exe
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\MyBookApp.pdb
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\MyBookApp.csproj.GenerateResource.Cache
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\priconfig.xml.intermediate
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\layout.resfiles.intermediate
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\resources.resfiles.intermediate
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\pri.resfiles.intermediate
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\priconfig.xml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\layout.resfiles
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\resources.resfiles
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\pri.resfiles
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\LanguageQualifiers.txt
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\Ebook - Copy\MyBookApp\obj\Release\ProjectArchitectures.txt
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\bin\Release\Assets\Book\Cover.jpg
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\bin\Release\MyBookApp.exe
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\bin\Release\MyBookApp.pdb
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\bin\Release\resources.pri
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\bin\Release\AppxManifest.xml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\bin\Release\MyBookApp.build.appxrecipe
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\bin\Release\MyBookLibrary.dll
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\bin\Release\MyBookLibrary.pdb
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\bin\Release\MyBookLibrary.pri
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\MyBookApp.csprojResolveAssemblyReference.cache
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\App.g.i.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\App.g.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\Common\StandardStyles.g.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\Views\BookPage.g.i.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\Views\BookPage.g.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\Views\MainPage.g.i.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\Views\MainPage.g.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\XamlTypeInfo.g.cs
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\App.xaml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\Common\StandardStyles.xaml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\Views\BookPage.xaml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\Views\MainPage.xaml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\MyBookApp.exe
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\MyBookApp.pdb
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\MyBookApp.csproj.GenerateResource.Cache
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\priconfig.xml.intermediate
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\layout.resfiles.intermediate
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\resources.resfiles.intermediate
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\pri.resfiles.intermediate
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\priconfig.xml
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\layout.resfiles
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\resources.resfiles
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\pri.resfiles
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\LanguageQualifiers.txt
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\obj\Release\ProjectArchitectures.txt
+C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\bin\Release\Assets\Book\IBM 1401 Programming Systems.epub

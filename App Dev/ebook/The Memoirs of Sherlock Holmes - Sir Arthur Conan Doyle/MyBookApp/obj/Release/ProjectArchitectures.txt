@@ -1,0 +1,2 @@
+C:\Users\vtquan\Desktop\The Memoirs of Sherlock Holmes - Sir Arthur Conan Doyle\MyBookApp\MyBookApp.csproj;neutral
+C:\Users\vtquan\Desktop\The Memoirs of Sherlock Holmes - Sir Arthur Conan Doyle\MyBookLibrary\MyBookLibrary.csproj;neutral
