@@ -1,0 +1,2 @@
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Ascent of Man by Mathilde Blind\MyBookApp\MyBookApp.csproj;neutral
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Ascent of Man by Mathilde Blind\MyBookLibrary\MyBookLibrary.csproj;neutral

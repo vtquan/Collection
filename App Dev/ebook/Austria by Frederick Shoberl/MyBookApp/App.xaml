@@ -11,8 +11,8 @@
             </ResourceDictionary.MergedDictionaries>
 
             <!-- Change these settings to your book title and image -->
-            <x:String x:Key="AppName">The Stories of El Dorado</x:String>
-            <x:String x:Key="EPubBook">ms-appx:///Assets/Book/The Stories of El Dorado.epub</x:String>
+            <x:String x:Key="AppName">Austria by Frederick Shoberl</x:String>
+            <x:String x:Key="EPubBook">ms-appx:///Assets/Book/pg42826.epub</x:String>
             <x:String x:Key="CoverImage">ms-appx:///Assets/Book/Cover.jpg</x:String>
             <!-- Change the style of the book Tile -->
             <DataTemplate x:Name="TileDataTemplate">

@@ -371,10 +371,16 @@
     <MainPackageIdentityName>19840ViquocQuan.TheAdventuresofSherlockHolmesbyArt</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.TheMemoirsofSherlockHolmes-SirArth</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.TheReturnofSherlockHolmesEbook</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.TheStoriesofElDoradobyFronaEuniceW</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.UrinalPickingQuiz</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.VoltorbFlip</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.ZeldaOoTOcarinaMusics</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.ZeldaOoTSoundboard</MainPackageIdentityName>
   </AccountPackageIdentityNames>
-  <PackageInfoList LandingUrl="https://appdev.microsoft.com:443/StorePortals/Developer/Catalog/ReleaseAnchor/28f44558-8ae4-4aa7-8eea-0b1436c98c0b" />
+  <PackageInfoList LandingUrl="https://appdev.microsoft.com:443/StorePortals/Developer/Catalog/ReleaseAnchor/28f44558-8ae4-4aa7-8eea-0b1436c98c0b">
+    <PackageInfo>
+      <PackageArchitecture>neutral</PackageArchitecture>
+      <PackageMaxArchitectureVersion>1.0.0.6</PackageMaxArchitectureVersion>
+    </PackageInfo>
+  </PackageInfoList>
 </StoreAssociation>

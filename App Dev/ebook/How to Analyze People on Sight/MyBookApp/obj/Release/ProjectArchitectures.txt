@@ -1,0 +1,2 @@
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\How to Analyze People on Sight\MyBookApp\MyBookApp.csproj;neutral
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\How to Analyze People on Sight\MyBookLibrary\MyBookLibrary.csproj;neutral

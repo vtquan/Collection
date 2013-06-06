@@ -1,1 +1,1 @@
-C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookApp\AppPackages\MyBookApp_1.0.0.5_AnyCPU_Test\MyBookApp_1.0.0.5_AnyCPU.appx
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\AppPackages\MyBookApp_1.0.0.6_AnyCPU_Test\MyBookApp_1.0.0.6_AnyCPU.appx

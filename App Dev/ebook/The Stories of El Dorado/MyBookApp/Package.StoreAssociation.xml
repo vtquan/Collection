@@ -377,5 +377,10 @@
     <MainPackageIdentityName>19840ViquocQuan.ZeldaOoTOcarinaMusics</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.ZeldaOoTSoundboard</MainPackageIdentityName>
   </AccountPackageIdentityNames>
-  <PackageInfoList LandingUrl="https://appdev.microsoft.com:443/StorePortals/Developer/Catalog/ReleaseAnchor/925eaad1-f261-4b74-8389-24509740e1d2" />
+  <PackageInfoList LandingUrl="https://appdev.microsoft.com:443/StorePortals/Developer/Catalog/ReleaseAnchor/925eaad1-f261-4b74-8389-24509740e1d2">
+    <PackageInfo>
+      <PackageArchitecture>neutral</PackageArchitecture>
+      <PackageMaxArchitectureVersion>1.0.0.5</PackageMaxArchitectureVersion>
+    </PackageInfo>
+  </PackageInfoList>
 </StoreAssociation>

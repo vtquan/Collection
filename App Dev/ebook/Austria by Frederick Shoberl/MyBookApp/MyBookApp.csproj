@@ -145,9 +145,9 @@
     </AppxManifest>
     <Content Include="Assets\Books\BookCover.png" />
     <Content Include="Assets\Book\Cover.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Assets\Book\The Stories of El Dorado.epub">
+    <Content Include="Assets\Book\pg42826.epub">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <None Include="MyBookApp_StoreKey.pfx" />

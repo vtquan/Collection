@@ -1,2 +1,0 @@
-C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookApp\MyBookApp.csproj;neutral
-C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookLibrary\MyBookLibrary.csproj;neutral

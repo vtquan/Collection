@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>QUAN-DESKTOP</Machine>
+    <WindowsUser>vtquan</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>2E09C4EB102254298553D3552C00089CE994D3FF0DF5BAF8CE95364AE7792F6D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>19840ViquocQuan.TheStoriesofElDoradobyFronaEuniceW_1.0.0.6_neutral__2apa7etkjmne0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>19840ViquocQuan.TheStoriesofElDoradobyFronaEuniceW_2apa7etkjmne0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>19840ViquocQuan.TheStoriesofElDoradobyFronaEuniceW</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=BB2EBC43-7F5D-40B9-AAA2-936D0FDD3638</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.6</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Adventures of Tom Sawyer\MyBookApp\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-04T04:00:42.827</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Adventures of Tom Sawyer\MyBookApp\bin\Release\MyBookApp.exe">
+      <PackagePath>MyBookApp.exe</PackagePath>
+      <Modified>2013-06-04T04:01:18.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Adventures of Tom Sawyer\MyBookApp\bin\Release\MyBookApp.pdb">
+      <PackagePath>MyBookApp.pdb</PackagePath>
+      <Modified>2013-06-04T04:01:17.998</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Adventures of Tom Sawyer\MyBookLibrary\bin\Release\MyBookLibrary.pdb">
+      <PackagePath>MyBookLibrary.pdb</PackagePath>
+      <Modified>2013-05-27T20:06:53.137</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Adventures of Tom Sawyer\MyBookLibrary\bin\Release\MyBookLibrary.dll">
+      <PackagePath>MyBookLibrary.dll</PackagePath>
+      <Modified>2013-05-27T20:06:53.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Adventures of Tom Sawyer\MyBookApp\Assets\Books\BookCover.png">
+      <PackagePath>Assets\Books\BookCover.png</PackagePath>
+      <Modified>2013-05-14T18:10:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Adventures of Tom Sawyer\MyBookApp\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-27T21:39:21.359</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Adventures of Tom Sawyer\MyBookApp\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-27T21:37:56.928</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Adventures of Tom Sawyer\MyBookApp\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-27T21:41:57.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Adventures of Tom Sawyer\MyBookApp\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-27T21:38:04.387</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Adventures of Tom Sawyer\MyBookApp\Assets\Book\Cover.jpg">
+      <PackagePath>Assets\Book\Cover.jpg</PackagePath>
+      <Modified>2013-06-04T04:00:25.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Adventures of Tom Sawyer\MyBookApp\Assets\Book\pg74.epub">
+      <PackagePath>Assets\Book\pg74.epub</PackagePath>
+      <Modified>2013-06-04T03:59:15.346</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Adventures of Tom Sawyer\MyBookApp\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-06-04T04:01:16.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Adventures of Tom Sawyer\MyBookApp\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-05-14T19:08:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Adventures of Tom Sawyer\MyBookApp\bin\Release\Views\BookPage.xaml">
+      <PackagePath>Views\BookPage.xaml</PackagePath>
+      <Modified>2013-05-27T20:47:07.336</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Adventures of Tom Sawyer\MyBookApp\bin\Release\Views\MainPage.xaml">
+      <PackagePath>Views\MainPage.xaml</PackagePath>
+      <Modified>2013-06-04T03:09:56.611</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Adventures of Tom Sawyer\MyBookApp\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-06-04T04:00:42.755</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

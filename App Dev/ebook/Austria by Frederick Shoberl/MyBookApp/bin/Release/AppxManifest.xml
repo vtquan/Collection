@@ -7,9 +7,9 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="19840ViquocQuan.TheStoriesofElDoradobyFronaEuniceW" Publisher="CN=BB2EBC43-7F5D-40B9-AAA2-936D0FDD3638" Version="1.0.0.5" ProcessorArchitecture="neutral" />
+  <Identity Name="19840ViquocQuan.AustriabyFrederickShoberl" Publisher="CN=BB2EBC43-7F5D-40B9-AAA2-936D0FDD3638" Version="1.0.0.7" ProcessorArchitecture="neutral" />
   <Properties>
-    <DisplayName>The Stories of El Dorado by Frona Eunice Wait</DisplayName>
+    <DisplayName>Austria by Frederick Shoberl</DisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
     <PublisherDisplayName>Viquoc Quan</PublisherDisplayName>
   </Properties>

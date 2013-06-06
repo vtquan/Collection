@@ -7,9 +7,9 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="19840ViquocQuan.TheAdventureoftheDyingDetectivebyA" Publisher="CN=BB2EBC43-7F5D-40B9-AAA2-936D0FDD3638" Version="1.0.0.4" ProcessorArchitecture="neutral" />
+  <Identity Name="19840ViquocQuan.AustriabyFrederickShoberl" Publisher="CN=BB2EBC43-7F5D-40B9-AAA2-936D0FDD3638" Version="1.0.0.6" ProcessorArchitecture="neutral" />
   <Properties>
-    <DisplayName>The Adventure of the Dying Detective by Arthur Conan Doyle</DisplayName>
+    <DisplayName>Austria by Frederick Shoberl</DisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
     <PublisherDisplayName>Viquoc Quan</PublisherDisplayName>
   </Properties>

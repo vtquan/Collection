@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
-  <Identity Name="19840ViquocQuan.IBM1401ProgrammingSystems" Publisher="CN=BB2EBC43-7F5D-40B9-AAA2-936D0FDD3638" Version="1.0.0.6" />
+  <Identity Name="19840ViquocQuan.IBM1401ProgrammingSystems" Publisher="CN=BB2EBC43-7F5D-40B9-AAA2-936D0FDD3638" Version="1.0.0.7" />
   <Properties>
     <DisplayName>IBM 1401 Programming Systems</DisplayName>
     <Logo>Assets\StoreLogo.png</Logo>

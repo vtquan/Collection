@@ -1,0 +1,2 @@
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Adventures of Tom Sawyer\MyBookApp\MyBookApp.csproj;neutral
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Adventures of Tom Sawyer\MyBookLibrary\MyBookLibrary.csproj;neutral

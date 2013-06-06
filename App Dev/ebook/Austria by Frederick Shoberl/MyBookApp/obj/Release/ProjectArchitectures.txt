@@ -1,2 +1,2 @@
-C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookApp\MyBookApp.csproj;neutral
-C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookLibrary\MyBookLibrary.csproj;neutral
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\Austria by Frederick Shoberl\MyBookApp\MyBookApp.csproj;neutral
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\Austria by Frederick Shoberl\MyBookLibrary\MyBookLibrary.csproj;neutral

@@ -179,3 +179,40 @@ C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\M
 C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookApp\obj\Release\ProjectArchitectures.txt
 C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookApp\bin\Release\Assets\Book\The Stories of El Dorado.epub
 C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookApp\bin\Release\Assets\Book\Cover.jpg
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\bin\Release\Assets\Book\Cover.jpg
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\bin\Release\Assets\Book\The Stories of El Dorado.epub
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\bin\Release\MyBookApp.exe
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\bin\Release\MyBookApp.pdb
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\bin\Release\resources.pri
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\bin\Release\AppxManifest.xml
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\bin\Release\MyBookApp.build.appxrecipe
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\bin\Release\MyBookLibrary.dll
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\bin\Release\MyBookLibrary.pdb
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\bin\Release\MyBookLibrary.pri
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\MyBookApp.csprojResolveAssemblyReference.cache
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\App.g.i.cs
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\App.g.cs
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\Common\StandardStyles.g.cs
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\Views\BookPage.g.i.cs
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\Views\BookPage.g.cs
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\Views\MainPage.g.i.cs
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\Views\MainPage.g.cs
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\XamlTypeInfo.g.cs
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\App.xaml
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\Common\StandardStyles.xaml
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\Views\BookPage.xaml
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\Views\MainPage.xaml
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\MyBookApp.exe
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\MyBookApp.pdb
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\MyBookApp.csproj.GenerateResource.Cache
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\priconfig.xml.intermediate
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\layout.resfiles.intermediate
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\resources.resfiles.intermediate
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\pri.resfiles.intermediate
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\priconfig.xml
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\layout.resfiles
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\resources.resfiles
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\pri.resfiles
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\LanguageQualifiers.txt
+C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\The Stories of El Dorado\MyBookApp\obj\Release\ProjectArchitectures.txt

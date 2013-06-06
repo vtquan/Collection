@@ -5,88 +5,88 @@
     <WindowsUser>vtquan</WindowsUser>
     <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <RegisteredManifestChecksum>17112A08447E4E88CC7B14976362B268063B2E6313310550A59AC3873D281090</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>19840ViquocQuan.TheAdventureoftheDyingDetectivebyA_1.0.0.4_neutral__2apa7etkjmne0</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>19840ViquocQuan.TheAdventureoftheDyingDetectivebyA_2apa7etkjmne0!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>19840ViquocQuan.TheAdventureoftheDyingDetectivebyA</RegisteredPackageID>
+    <RegisteredManifestChecksum>76353DC4390BB969E550F87CC76C1260382BEAD7E68445646A21C54DC47C093D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>19840ViquocQuan.AustriabyFrederickShoberl_1.0.0.6_neutral__2apa7etkjmne0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>19840ViquocQuan.AustriabyFrederickShoberl_2apa7etkjmne0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>19840ViquocQuan.AustriabyFrederickShoberl</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=BB2EBC43-7F5D-40B9-AAA2-936D0FDD3638</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.0.4</RegisteredVersion>
+    <RegisteredVersion>1.0.0.6</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookApp\bin\Release\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\Austria by Frederick Shoberl\MyBookApp\bin\Release\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-06-01T19:29:21.720</Modified>
+      <Modified>2013-06-04T03:34:42.661</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookApp\bin\Release\MyBookApp.exe">
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\Austria by Frederick Shoberl\MyBookApp\bin\Release\MyBookApp.exe">
       <PackagePath>MyBookApp.exe</PackagePath>
-      <Modified>2013-06-01T19:29:21.618</Modified>
+      <Modified>2013-06-04T03:36:52.653</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookApp\bin\Release\MyBookApp.pdb">
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\Austria by Frederick Shoberl\MyBookApp\bin\Release\MyBookApp.pdb">
       <PackagePath>MyBookApp.pdb</PackagePath>
-      <Modified>2013-06-01T19:29:21.600</Modified>
+      <Modified>2013-06-04T03:36:52.635</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookLibrary\bin\Release\MyBookLibrary.pdb">
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\Austria by Frederick Shoberl\MyBookLibrary\bin\Release\MyBookLibrary.pdb">
       <PackagePath>MyBookLibrary.pdb</PackagePath>
       <Modified>2013-05-27T20:06:53.137</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookLibrary\bin\Release\MyBookLibrary.dll">
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\Austria by Frederick Shoberl\MyBookLibrary\bin\Release\MyBookLibrary.dll">
       <PackagePath>MyBookLibrary.dll</PackagePath>
       <Modified>2013-05-27T20:06:53.156</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookApp\Assets\Books\BookCover.png">
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\Austria by Frederick Shoberl\MyBookApp\Assets\Books\BookCover.png">
       <PackagePath>Assets\Books\BookCover.png</PackagePath>
       <Modified>2013-05-14T18:10:40.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookApp\Assets\Logo.png">
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\Austria by Frederick Shoberl\MyBookApp\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-05-27T21:39:21.359</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookApp\Assets\SmallLogo.png">
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\Austria by Frederick Shoberl\MyBookApp\Assets\SmallLogo.png">
       <PackagePath>Assets\SmallLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-05-27T21:37:56.928</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookApp\Assets\SplashScreen.png">
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\Austria by Frederick Shoberl\MyBookApp\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-05-27T21:41:57.552</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookApp\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\Austria by Frederick Shoberl\MyBookApp\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-05-27T21:38:04.387</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookApp\Assets\Book\Cover.jpg">
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\Austria by Frederick Shoberl\MyBookApp\Assets\Book\Cover.jpg">
       <PackagePath>Assets\Book\Cover.jpg</PackagePath>
-      <Modified>2013-06-01T19:29:04.586</Modified>
+      <Modified>2013-06-02T23:44:09.233</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookApp\Assets\Book\The Stories of El Dorado.epub">
-      <PackagePath>Assets\Book\The Stories of El Dorado.epub</PackagePath>
-      <Modified>2013-06-01T19:24:41.741</Modified>
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\Austria by Frederick Shoberl\MyBookApp\Assets\Book\pg42826.epub">
+      <PackagePath>Assets\Book\pg42826.epub</PackagePath>
+      <Modified>2013-06-02T23:44:44.679</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookApp\bin\Release\App.xaml">
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\Austria by Frederick Shoberl\MyBookApp\bin\Release\App.xaml">
       <PackagePath>App.xaml</PackagePath>
-      <Modified>2013-06-01T19:27:59.701</Modified>
+      <Modified>2013-06-02T23:45:17.297</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookApp\bin\Release\Common\StandardStyles.xaml">
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\Austria by Frederick Shoberl\MyBookApp\bin\Release\Common\StandardStyles.xaml">
       <PackagePath>Common\StandardStyles.xaml</PackagePath>
       <Modified>2013-05-14T19:08:28.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookApp\bin\Release\Views\BookPage.xaml">
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\Austria by Frederick Shoberl\MyBookApp\bin\Release\Views\BookPage.xaml">
       <PackagePath>Views\BookPage.xaml</PackagePath>
       <Modified>2013-05-27T20:47:07.336</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookApp\bin\Release\Views\MainPage.xaml">
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\Austria by Frederick Shoberl\MyBookApp\bin\Release\Views\MainPage.xaml">
       <PackagePath>Views\MainPage.xaml</PackagePath>
-      <Modified>2013-06-01T19:27:53.335</Modified>
+      <Modified>2013-06-04T03:30:39.410</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\Documents\Visual Studio 2012\Projects\The Stories of El Dorado\MyBookApp\bin\Release\resources.pri">
+    <AppxPackagedFile Include="C:\Users\vtquan\Documents\GitHub\Work-Projects\App Dev\ebook\Austria by Frederick Shoberl\MyBookApp\bin\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-06-01T19:28:27.268</Modified>
+      <Modified>2013-06-04T03:34:42.623</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

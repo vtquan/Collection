@@ -337,9 +337,9 @@
     <Language Code="zu-za" InMinimumRequirementSet="false" />
   </SupportedLocales>
   <ProductReservedInfo>
-    <MainPackageIdentityName>19840ViquocQuan.TheStoriesofElDoradobyFronaEuniceW</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.AustriabyFrederickShoberl</MainPackageIdentityName>
     <ReservedNames>
-      <ReservedName>The Stories of El Dorado by Frona Eunice Wait</ReservedName>
+      <ReservedName>Austria by Frederick Shoberl</ReservedName>
     </ReservedNames>
   </ProductReservedInfo>
   <AccountPackageIdentityNames>
@@ -370,12 +370,19 @@
     <MainPackageIdentityName>19840ViquocQuan.SubtractionPopQuiz</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.TheAdventureoftheDyingDetectivebyA</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.TheAdventuresofSherlockHolmesbyArt</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.TheAscentofManbyMathildeBlind</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.TheMemoirsofSherlockHolmes-SirArth</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.TheReturnofSherlockHolmesEbook</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.TheStoriesofElDoradobyFronaEuniceW</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.UrinalPickingQuiz</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.VoltorbFlip</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.ZeldaOoTOcarinaMusics</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.ZeldaOoTSoundboard</MainPackageIdentityName>
   </AccountPackageIdentityNames>
-  <PackageInfoList LandingUrl="https://appdev.microsoft.com:443/StorePortals/Developer/Catalog/ReleaseAnchor/925eaad1-f261-4b74-8389-24509740e1d2" />
+  <PackageInfoList LandingUrl="https://appdev.microsoft.com:443/StorePortals/Developer/Catalog/ReleaseAnchor/ed38a220-80e0-4d5b-9858-4a73e5f6894a">
+    <PackageInfo>
+      <PackageArchitecture>neutral</PackageArchitecture>
+      <PackageMaxArchitectureVersion>1.0.0.6</PackageMaxArchitectureVersion>
+    </PackageInfo>
+  </PackageInfoList>
 </StoreAssociation>
