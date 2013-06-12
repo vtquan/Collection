@@ -1,0 +1,27 @@
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\bin\Debug\Speed Tap.exe
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\bin\Debug\Speed Tap.pdb
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\bin\Debug\resources.pri
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\bin\Debug\AppxManifest.xml
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\bin\Debug\Speed Tap.build.appxrecipe
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\obj\Debug\App.g.i.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\obj\Debug\App.g.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\obj\Debug\Common\StandardStyles.g.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\obj\Debug\MainPage.g.i.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\obj\Debug\MainPage.g.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\obj\Debug\XamlTypeInfo.g.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\obj\Debug\App.xaml
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\obj\Debug\Common\StandardStyles.xaml
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\obj\Debug\MainPage.xaml
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\obj\Debug\Speed Tap.exe
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\obj\Debug\Speed Tap.pdb
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\obj\Debug\priconfig.xml.intermediate
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\obj\Debug\layout.resfiles.intermediate
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\obj\Debug\resources.resfiles.intermediate
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\obj\Debug\pri.resfiles.intermediate
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\obj\Debug\priconfig.xml
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\obj\Debug\layout.resfiles
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\obj\Debug\resources.resfiles
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\obj\Debug\pri.resfiles
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\obj\Debug\LanguageQualifiers.txt
+c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\obj\Debug\ProjectArchitectures.txt

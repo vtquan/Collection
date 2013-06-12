@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>QUAN-LAPTOP</Machine>
+    <WindowsUser>quanvt</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>C4F3575A0BD0BAF9D23D2EA8CD0B62287651CD5DD0AECD5C1D919C0B18624434</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>19840ViquocQuan.HeadphoneTest_1.0.0.0_neutral__2apa7etkjmne0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>19840ViquocQuan.HeadphoneTest_2apa7etkjmne0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>19840ViquocQuan.HeadphoneTest</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=BB2EBC43-7F5D-40B9-AAA2-936D0FDD3638</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-06T08:38:18.246</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\bin\Debug\Headphone Test.exe">
+      <PackagePath>Headphone Test.exe</PackagePath>
+      <Modified>2013-06-06T08:38:15.483</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\bin\Debug\Headphone Test.pdb">
+      <PackagePath>Headphone Test.pdb</PackagePath>
+      <Modified>2013-06-06T08:38:15.440</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-06T08:21:29.103</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-06T08:21:30.991</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-06T08:21:33.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-06T08:21:35.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\Assets\whiteNoise-both.wav">
+      <PackagePath>Assets\whiteNoise-both.wav</PackagePath>
+      <Modified>2013-06-06T07:58:20.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\Assets\whiteNoise-left.wav">
+      <PackagePath>Assets\whiteNoise-left.wav</PackagePath>
+      <Modified>2013-06-06T07:59:54.190</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\Assets\whiteNoise-right.wav">
+      <PackagePath>Assets\whiteNoise-right.wav</PackagePath>
+      <Modified>2013-06-06T07:59:54.244</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-06-06T06:49:49.796</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-06-06T06:48:46.949</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T23:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-06-06T08:01:53.042</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-06-06T08:38:18.016</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

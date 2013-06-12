@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>QUAN-LAPTOP</Machine>
+    <WindowsUser>quanvt</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>C27FC5604BA3AD2F41431E88F2E2C0BD2126A304C7DF901AE0B6402C27C4BD4B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6ab69d5e-aed3-457f-84d8-7e78c2561598_1.0.0.0_neutral__51x9vbdkyqbsa</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6ab69d5e-aed3-457f-84d8-7e78c2561598_51x9vbdkyqbsa!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6ab69d5e-aed3-457f-84d8-7e78c2561598</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=quanvt</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-10T17:47:28.868</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\bin\Debug\Speed Tap.exe">
+      <PackagePath>Speed Tap.exe</PackagePath>
+      <Modified>2013-06-10T17:47:27.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\bin\Debug\Speed Tap.pdb">
+      <PackagePath>Speed Tap.pdb</PackagePath>
+      <Modified>2013-06-10T17:47:27.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-06-10T17:46:45.228</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-06-10T09:53:26.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T23:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-06-10T17:47:06.726</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\quanvt\documents\visual studio 2012\Projects\Speed Tap\Speed Tap\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-06-10T17:47:27.514</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

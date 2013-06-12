@@ -1,0 +1,32 @@
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\bin\Release\Assets\noise-both.mp3
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\bin\Release\Assets\noise-left.mp3
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\bin\Release\Assets\noise-right.mp3
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\bin\Release\Assets\whiteNoise-left.wav
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\bin\Release\Assets\whiteNoise-right.wav
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\bin\Release\Headphone Test.exe
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\bin\Release\Headphone Test.pdb
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\bin\Release\resources.pri
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\bin\Release\AppxManifest.xml
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\bin\Release\Headphone Test.build.appxrecipe
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\obj\Release\App.g.i.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\obj\Release\App.g.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\obj\Release\Common\StandardStyles.g.i.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\obj\Release\Common\StandardStyles.g.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\obj\Release\MainPage.g.i.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\obj\Release\MainPage.g.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\obj\Release\XamlTypeInfo.g.cs
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\obj\Release\App.xaml
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\obj\Release\Common\StandardStyles.xaml
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\obj\Release\MainPage.xaml
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\obj\Release\Headphone Test.exe
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\obj\Release\Headphone Test.pdb
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\obj\Release\priconfig.xml.intermediate
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\obj\Release\layout.resfiles.intermediate
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\obj\Release\resources.resfiles.intermediate
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\obj\Release\pri.resfiles.intermediate
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\obj\Release\priconfig.xml
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\obj\Release\layout.resfiles
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\obj\Release\resources.resfiles
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\obj\Release\pri.resfiles
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\obj\Release\LanguageQualifiers.txt
+c:\users\quanvt\documents\visual studio 2012\Projects\Headphone Test\Headphone Test\obj\Release\ProjectArchitectures.txt
