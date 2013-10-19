@@ -1,2 +1,0 @@
-C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookApp\MyBookApp.csproj;neutral
-C:\Users\vtquan\Documents\Visual Studio 2012\Projects\IBM 1401 Programming Systems\MyBookLibrary\MyBookLibrary.csproj;neutral
