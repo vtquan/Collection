@@ -48,3 +48,49 @@ C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\obj\Release\resources.r
 C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\obj\Release\pri.resfiles
 C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\obj\Release\LanguageQualifiers.txt
 C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\obj\Release\ProjectArchitectures.txt
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Assets\Flags\AntiguaBarbuda.gif
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Assets\Flags\Bahamas.gif
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Assets\Flags\Barbados.gif
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Assets\Flags\Belize.gif
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Assets\Flags\Canada.gif
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Assets\Flags\Costa Rica.gif
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Assets\Flags\Cuba.gif
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Assets\Flags\Dominica.gif
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Assets\Flags\Dominican Republic.gif
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Assets\Flags\El Salvador.gif
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Assets\Flags\Grenada.gif
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Assets\Flags\Guatemala.gif
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Assets\Flags\Haiti.gif
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Assets\Flags\Honduras.gif
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Assets\Flags\Jamaica.gif
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Assets\Flags\Mexico.gif
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Assets\Flags\Nicaragua.gif
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Assets\Flags\Panama.gif
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Assets\Flags\St. Kitts and Nevis.gif
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Assets\Flags\St. Lucia.gif
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Assets\Flags\St. Vincent and the Grenadines.gif
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Assets\Flags\Trinidad and Tobago.gif
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Assets\Flags\U.S.A..gif
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Continent Flags.exe
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Continent Flags.pdb
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\resources.pri
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\AppxManifest.xml
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\bin\Release\Continent Flags.build.appxrecipe
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\obj\Release\App.g.i.cs
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\obj\Release\App.g.cs
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\obj\Release\Common\StandardStyles.g.cs
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\obj\Release\MainPage.g.i.cs
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\obj\Release\MainPage.g.cs
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\obj\Release\XamlTypeInfo.g.cs
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\obj\Release\App.xaml
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\obj\Release\Common\StandardStyles.xaml
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\obj\Release\MainPage.xaml
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\obj\Release\Continent Flags.exe
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\obj\Release\Continent Flags.pdb
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\obj\Release\priconfig.xml
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\obj\Release\layout.resfiles
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\obj\Release\resources.resfiles
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\obj\Release\pri.resfiles
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\obj\Release\LanguageQualifiers.txt
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\obj\Release\ProjectArchitectures.txt

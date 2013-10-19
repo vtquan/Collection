@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
-  <Identity Name="19840ViquocQuan.CoinFlipsSimulator" Publisher="CN=BB2EBC43-7F5D-40B9-AAA2-936D0FDD3638" Version="1.0.0.0" />
+  <Identity Name="19840ViquocQuan.CoinsFlipSimulator" Publisher="CN=BB2EBC43-7F5D-40B9-AAA2-936D0FDD3638" Version="1.0.0.1" />
   <Properties>
-    <DisplayName>Coin Flips Simulator</DisplayName>
+    <DisplayName>Coins Flip Simulator</DisplayName>
     <PublisherDisplayName>Viquoc Quan</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -15,7 +15,7 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="CoinFlipSimulator.App">
-      <VisualElements DisplayName="Coin Flips Simulator" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="CoinFlipSimulator" ForegroundText="light" BackgroundColor="#0B058E">
+      <VisualElements DisplayName="Coins Flip Simulator" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="CoinFlipSimulator" ForegroundText="light" BackgroundColor="#0B058E">
         <DefaultTile ShowName="allLogos" />
         <SplashScreen Image="Assets\SplashScreen.png" />
       </VisualElements>

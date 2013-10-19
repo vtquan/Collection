@@ -1,1 +1,1 @@
-C:\Users\quanvt\SkyDrive\Continent Flags\Continent Flags\Continent Flags.csproj;neutral
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\Continent Flags\Continent Flags\Continent Flags.csproj;neutral

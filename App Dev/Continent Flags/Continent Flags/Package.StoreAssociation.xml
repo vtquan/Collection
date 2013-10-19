@@ -67,6 +67,12 @@
     <Language Code="el" InMinimumRequirementSet="true" />
     <Language Code="el-gr" InMinimumRequirementSet="true" />
     <Language Code="en" InMinimumRequirementSet="true" />
+    <Language Code="en-011" InMinimumRequirementSet="true" />
+    <Language Code="en-014" InMinimumRequirementSet="true" />
+    <Language Code="en-018" InMinimumRequirementSet="true" />
+    <Language Code="en-021" InMinimumRequirementSet="true" />
+    <Language Code="en-029" InMinimumRequirementSet="true" />
+    <Language Code="en-053" InMinimumRequirementSet="true" />
     <Language Code="en-au" InMinimumRequirementSet="true" />
     <Language Code="en-bz" InMinimumRequirementSet="true" />
     <Language Code="en-ca" InMinimumRequirementSet="true" />
@@ -88,6 +94,8 @@
     <Language Code="en-vn" InMinimumRequirementSet="true" />
     <Language Code="en-za" InMinimumRequirementSet="true" />
     <Language Code="es" InMinimumRequirementSet="true" />
+    <Language Code="es-019" InMinimumRequirementSet="true" />
+    <Language Code="es-419" InMinimumRequirementSet="true" />
     <Language Code="es-ar" InMinimumRequirementSet="true" />
     <Language Code="es-bo" InMinimumRequirementSet="true" />
     <Language Code="es-cl" InMinimumRequirementSet="true" />
@@ -120,7 +128,11 @@
     <Language Code="fil-latn" InMinimumRequirementSet="false" />
     <Language Code="fil-ph" InMinimumRequirementSet="false" />
     <Language Code="fr" InMinimumRequirementSet="true" />
+    <Language Code="fr-011" InMinimumRequirementSet="true" />
     <Language Code="fr-015" InMinimumRequirementSet="true" />
+    <Language Code="fr-021" InMinimumRequirementSet="true" />
+    <Language Code="fr-029" InMinimumRequirementSet="true" />
+    <Language Code="fr-155" InMinimumRequirementSet="true" />
     <Language Code="fr-be" InMinimumRequirementSet="true" />
     <Language Code="fr-ca" InMinimumRequirementSet="true" />
     <Language Code="fr-cd" InMinimumRequirementSet="true" />
@@ -337,37 +349,117 @@
     <Language Code="zu-za" InMinimumRequirementSet="false" />
   </SupportedLocales>
   <ProductReservedInfo>
-    <MainPackageIdentityName>19840ViquocQuan.NorthAmericaFlags</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.NorthAmericaFlag</MainPackageIdentityName>
     <ReservedNames>
-      <ReservedName>North America Flags</ReservedName>
+      <ReservedName>North America Flag</ReservedName>
     </ReservedNames>
   </ProductReservedInfo>
   <AccountPackageIdentityNames>
+    <MainPackageIdentityName>19840ViquocQuan.AConnecticutYankeeinKingArthursCou</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.25786F04B6777</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.ARainyJuneandOtherStoriesbyOuida</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.ARainyJuneandOtherStoriesEbook</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.AdditionExam</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.AdditionPopQuiz</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.AdventureoftheDyingDetectiveEbook</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.AustraliaOceaniaFlags</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.AustriabyFrederickShoberl</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.AustriaEbook</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.BuCuaCCp</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.BingoCallsSimulator</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.CardDrawsSimulator</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.CardsDrawSimulator</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.CoinFlipsSimulator</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.CoinsFlipSimulator</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.CustomPicross</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.CustomRPGBattle</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.DavidCopperfieldbyCharlesDickensEb</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.DavidCopperfieldEbook</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.DiceRollSimulator</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.DiceRollsSimulator</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.DivisionExam</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.DivisionPopQuiz</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.DonkeyKongMixup</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.FactsaboutCat</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.FindDeadPixels</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.FireEmblemJumbledImage</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.F-ZeroJumbledImage</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.HeadphoneTest</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.HowtoAnalyzePeopleonSightEbook</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.IBM1401ProgrammingSystems</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.IBM1401ProgrammingSystemsEbook</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.MajoraMasksMasksGuide</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.MarioJumbledImage</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.MathPopQuizCollection</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.MemoSync</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.MemoirsofSherlockHolmesEbook</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.MH3UMatching</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.MonsterHunter3UltimateMatching</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.MonsterHunterTriMatching</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.MultiplicationExam</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.MultiplicationPopQuiz</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.NorthAmericaFlags</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.Picross10x10</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.Picross15x15</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.Picross5x5</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.PicrossCollection</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.PokemonJumbledImage</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.PokemonMatch-GymLeaderJohto</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.PokemonMatch-GymLeaderKanto</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.PokemonMatch-TypeBug</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.PokemonMatch-TypeDark</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.PokemonMatch-TypeDragon</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.PokemonMatch-TypeElectric</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.PokemonMatch-TypeFight</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.PokemonMatch-TypeFire</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.PokemonMatch-TypeFlying</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.PokemonMatch-TypeGhost</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.PokemonMatch-TypeGrass</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.PokemonMatch-TypeIce</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.PokemonMatch-TypePsychic</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.PokemonMatch-TypeRock</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.PokemonMatch-TypeWater</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.PokemonMatchUp-GymLeaderJohto</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.PokemonMatchUp-TypeFire</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.PokemonMatchUp-TypeIce</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.ProbabilitiesSimulator</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.ProbabilitySimulator</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.RandomNumberSimulator</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.RandomNumbersSimulator</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.ReturnofSherlockHolmesEbook</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.RPGBattle</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.SmashTheTarget</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.SouthAmericaFlags</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.SpeedAddition</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.SpeedAdditionQuiz</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.SpeedDivision</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.SpeedDivisionQuiz</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.SpeedMultiplication</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.SpeedMultiplicationQuiz</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.SpeedSubtraction</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.SpeedSubtractionQuiz</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.StoriesofElDoradoEbook</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.SubtractionExam</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.SubtractionPopQuiz</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.TheAdventureoftheDyingDetectivebyA</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.TheAdventuresofSherlockHolmesbyArt</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.TheAscentofManbyMathildeBlind</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.TheMemoirsofSherlockHolmes-SirArth</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.ThePrinceandthePauper</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.ThePrinceandthePauperEbook</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.TheReturnofSherlockHolmesEbook</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.TheStoriesofElDoradobyFronaEuniceW</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.TheTimeMachineEbook</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.TimeMachineEbook</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.UrinalEtiquetteQuiz</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.UrinalPickingQuiz</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.VoltorbFlip</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.WhackACockroach</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.Whack-A-Cockroach</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.Whack-A-Fly</MainPackageIdentityName>
+    <MainPackageIdentityName>19840ViquocQuan.ZeldaJumbledImage</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.ZeldaOoTOcarinaMusics</MainPackageIdentityName>
     <MainPackageIdentityName>19840ViquocQuan.ZeldaOoTSoundboard</MainPackageIdentityName>
   </AccountPackageIdentityNames>
-  <PackageInfoList LandingUrl="https://appdev.microsoft.com:443/StorePortals/Developer/Catalog/ReleaseAnchor/76369ecd-3b55-486b-a9aa-78a53d50108d">
-    <PackageInfo>
-      <PackageArchitecture>neutral</PackageArchitecture>
-      <PackageMaxArchitectureVersion>1.0.0.0</PackageMaxArchitectureVersion>
-    </PackageInfo>
-  </PackageInfoList>
+  <PackageInfoList LandingUrl="https://appdev.microsoft.com:443/StorePortals/Developer/Catalog/ReleaseAnchor/71b9816e-4f6e-4d3b-9639-44b6917994af" />
 </StoreAssociation>

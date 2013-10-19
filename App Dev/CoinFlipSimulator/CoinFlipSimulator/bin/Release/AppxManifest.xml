@@ -7,9 +7,9 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="19840ViquocQuan.CoinFlipsSimulator" Publisher="CN=BB2EBC43-7F5D-40B9-AAA2-936D0FDD3638" Version="1.0.0.0" ProcessorArchitecture="neutral" />
+  <Identity Name="19840ViquocQuan.CoinsFlipSimulator" Publisher="CN=BB2EBC43-7F5D-40B9-AAA2-936D0FDD3638" Version="1.0.0.1" ProcessorArchitecture="neutral" />
   <Properties>
-    <DisplayName>Coin Flips Simulator</DisplayName>
+    <DisplayName>Coins Flip Simulator</DisplayName>
     <PublisherDisplayName>Viquoc Quan</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -22,7 +22,7 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="CoinFlipSimulator.exe" EntryPoint="CoinFlipSimulator.App">
-      <VisualElements DisplayName="Coin Flips Simulator" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="CoinFlipSimulator" ForegroundText="light" BackgroundColor="#0B058E">
+      <VisualElements DisplayName="Coins Flip Simulator" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="CoinFlipSimulator" ForegroundText="light" BackgroundColor="#0B058E">
         <DefaultTile ShowName="allLogos" />
         <SplashScreen Image="Assets\SplashScreen.png" />
       </VisualElements>
@@ -33,8 +33,8 @@
     <build:Item Name="VisualStudio" Version="11.0" />
     <build:Item Name="VisualStudioEdition" Value="Microsoft Visual Studio Professional 2012" />
     <build:Item Name="OperatingSystem" Version="6.2.9200.16384 (win8_rtm.120725-1247)" />
-    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="11.0.60315.1" />
+    <build:Item Name="Microsoft.Build.AppxPackage.dll" Version="11.0.60610.1" />
     <build:Item Name="Microsoft.Windows.UI.Xaml.Build.Tasks.dll" Version="11.0.60315.1" />
-    <build:Item Name="MakePri.exe" Version="6.2.9200.16384 (win8_rtm.120725-1247)" />
+    <build:Item Name="MakePri.exe" Version="6.2.9200.20789 (win8_ldr.130802-1617)" />
   </build:Metadata>
 </Package>

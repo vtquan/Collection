@@ -1,1 +1,1 @@
-C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\AppPackages\CoinFlipSimulator_1.0.0.0_AnyCPU_Test\CoinFlipSimulator_1.0.0.0_AnyCPU.appx
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CoinFlipSimulator\CoinFlipSimulator\AppPackages\CoinFlipSimulator_1.0.0.1_AnyCPU_Test\CoinFlipSimulator_1.0.0.1_AnyCPU.appx

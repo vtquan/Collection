@@ -1,80 +1,80 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>QUAN-DESKTOP</Machine>
-    <WindowsUser>vtquan</WindowsUser>
+    <Machine>QUAN-LAPTOP</Machine>
+    <WindowsUser>quanvt</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <RegisteredManifestChecksum>B64AC260F2662C55097781CFADF3C69BCC37817468A379DA17ED41FA3ECDA7D4</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>92efcaef-6ceb-4037-afa8-0bdcbcfb7306_1.0.0.0_neutral__51x9vbdkyqbsa</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>92efcaef-6ceb-4037-afa8-0bdcbcfb7306_51x9vbdkyqbsa!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>92efcaef-6ceb-4037-afa8-0bdcbcfb7306</RegisteredPackageID>
-    <RegisteredPackagePublisher>CN=quanvt</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <RegisteredManifestChecksum>7D033753D12CB88CB1B34015E8F68A7F732CDE71691E842085D62741DA331211</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>19840ViquocQuan.CoinsFlipSimulator_1.0.0.1_neutral__2apa7etkjmne0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>19840ViquocQuan.CoinsFlipSimulator_2apa7etkjmne0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>19840ViquocQuan.CoinsFlipSimulator</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=BB2EBC43-7F5D-40B9-AAA2-936D0FDD3638</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CoinFlipSimulator\CoinFlipSimulator\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-04-25T17:04:16.869</Modified>
+      <Modified>2013-10-19T19:53:50.432</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\bin\Debug\CoinFlipSimulator.exe">
+    <AppxPackagedFile Include="C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CoinFlipSimulator\CoinFlipSimulator\bin\Debug\CoinFlipSimulator.exe">
       <PackagePath>CoinFlipSimulator.exe</PackagePath>
-      <Modified>2013-04-25T17:04:09.248</Modified>
+      <Modified>2013-10-19T19:53:50.148</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\bin\Debug\CoinFlipSimulator.pdb">
+    <AppxPackagedFile Include="C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CoinFlipSimulator\CoinFlipSimulator\bin\Debug\CoinFlipSimulator.pdb">
       <PackagePath>CoinFlipSimulator.pdb</PackagePath>
-      <Modified>2013-04-25T17:04:09.231</Modified>
+      <Modified>2013-10-19T19:53:50.098</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\Assets\Logo.png">
+    <AppxPackagedFile Include="C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CoinFlipSimulator\CoinFlipSimulator\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-04-25T17:03:42.456</Modified>
+      <Modified>2013-10-19T04:31:41.829</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\Assets\penny-head-trans.png">
+    <AppxPackagedFile Include="C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CoinFlipSimulator\CoinFlipSimulator\Assets\penny-head-trans.png">
       <PackagePath>Assets\penny-head-trans.png</PackagePath>
-      <Modified>2013-04-11T22:08:07.000</Modified>
+      <Modified>2013-10-19T04:31:41.859</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\Assets\penny-tail-trans.png">
+    <AppxPackagedFile Include="C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CoinFlipSimulator\CoinFlipSimulator\Assets\penny-tail-trans.png">
       <PackagePath>Assets\penny-tail-trans.png</PackagePath>
-      <Modified>2013-04-11T22:08:07.000</Modified>
+      <Modified>2013-10-19T04:31:41.862</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\Assets\SmallLogo.png">
+    <AppxPackagedFile Include="C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CoinFlipSimulator\CoinFlipSimulator\Assets\SmallLogo.png">
       <PackagePath>Assets\SmallLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-04-25T17:03:44.269</Modified>
+      <Modified>2013-10-19T04:31:41.830</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\Assets\SplashScreen.png">
+    <AppxPackagedFile Include="C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CoinFlipSimulator\CoinFlipSimulator\Assets\SplashScreen.png">
       <PackagePath>Assets\SplashScreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-04-25T17:03:38.923</Modified>
+      <Modified>2013-10-19T04:31:41.832</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CoinFlipSimulator\CoinFlipSimulator\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-04-25T17:03:40.787</Modified>
+      <Modified>2013-10-19T04:31:41.834</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\Common\ReadMe.txt">
+    <AppxPackagedFile Include="C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CoinFlipSimulator\CoinFlipSimulator\Common\ReadMe.txt">
       <PackagePath>Common\ReadMe.txt</PackagePath>
-      <Modified>2013-04-11T21:58:35.000</Modified>
+      <Modified>2013-10-19T04:31:41.944</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\bin\Debug\App.xaml">
+    <AppxPackagedFile Include="C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CoinFlipSimulator\CoinFlipSimulator\bin\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>
-      <Modified>2013-04-11T21:56:01.000</Modified>
+      <Modified>2013-10-19T04:31:40.919</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\bin\Debug\Common\StandardStyles.xaml">
+    <AppxPackagedFile Include="C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CoinFlipSimulator\CoinFlipSimulator\bin\Debug\Common\StandardStyles.xaml">
       <PackagePath>Common\StandardStyles.xaml</PackagePath>
-      <Modified>2012-06-26T23:19:20.000</Modified>
+      <Modified>2013-10-19T04:31:41.975</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\bin\Debug\MainPage.xaml">
+    <AppxPackagedFile Include="C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CoinFlipSimulator\CoinFlipSimulator\bin\Debug\MainPage.xaml">
       <PackagePath>MainPage.xaml</PackagePath>
-      <Modified>2013-04-11T22:16:19.000</Modified>
+      <Modified>2013-10-19T04:31:42.005</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CoinFlipSimulator\CoinFlipSimulator\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-04-25T17:04:16.833</Modified>
+      <Modified>2013-10-19T19:53:50.307</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

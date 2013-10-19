@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
-  <Identity Name="19840ViquocQuan.NorthAmericaFlags" Publisher="CN=BB2EBC43-7F5D-40B9-AAA2-936D0FDD3638" Version="1.0.0.1" />
+  <Identity Name="19840ViquocQuan.NorthAmericaFlag" Publisher="CN=BB2EBC43-7F5D-40B9-AAA2-936D0FDD3638" Version="1.0.0.2" />
   <Properties>
-    <DisplayName>North America Flags</DisplayName>
+    <DisplayName>North America Flag</DisplayName>
     <PublisherDisplayName>Viquoc Quan</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -15,7 +15,7 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="Continent_Flags.App">
-      <VisualElements DisplayName="North America Flags" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="Continent Flags" ForegroundText="light" BackgroundColor="#464646">
+      <VisualElements DisplayName="North America Flag" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="Continent Flags" ForegroundText="light" BackgroundColor="#464646">
         <DefaultTile ShowName="allLogos" />
         <SplashScreen Image="Assets\SplashScreen.png" />
       </VisualElements>

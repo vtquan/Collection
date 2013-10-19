@@ -25,3 +25,26 @@ C:\Users\vtquan\Documents\Visual Studio 2012\Projects\CardDrawsSimulator\CardDra
 C:\Users\vtquan\Documents\Visual Studio 2012\Projects\CardDrawsSimulator\CardDrawsSimulator\obj\Release\pri.resfiles
 C:\Users\vtquan\Documents\Visual Studio 2012\Projects\CardDrawsSimulator\CardDrawsSimulator\obj\Release\LanguageQualifiers.txt
 C:\Users\vtquan\Documents\Visual Studio 2012\Projects\CardDrawsSimulator\CardDrawsSimulator\obj\Release\ProjectArchitectures.txt
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CardDrawsSimulator\CardDrawsSimulator\bin\Release\CardDrawsSimulator.exe
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CardDrawsSimulator\CardDrawsSimulator\bin\Release\CardDrawsSimulator.pdb
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CardDrawsSimulator\CardDrawsSimulator\bin\Release\resources.pri
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CardDrawsSimulator\CardDrawsSimulator\bin\Release\AppxManifest.xml
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CardDrawsSimulator\CardDrawsSimulator\bin\Release\CardDrawsSimulator.build.appxrecipe
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CardDrawsSimulator\CardDrawsSimulator\obj\Release\App.g.i.cs
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CardDrawsSimulator\CardDrawsSimulator\obj\Release\App.g.cs
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CardDrawsSimulator\CardDrawsSimulator\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CardDrawsSimulator\CardDrawsSimulator\obj\Release\Common\StandardStyles.g.cs
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CardDrawsSimulator\CardDrawsSimulator\obj\Release\MainPage.g.i.cs
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CardDrawsSimulator\CardDrawsSimulator\obj\Release\MainPage.g.cs
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CardDrawsSimulator\CardDrawsSimulator\obj\Release\XamlTypeInfo.g.cs
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CardDrawsSimulator\CardDrawsSimulator\obj\Release\App.xaml
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CardDrawsSimulator\CardDrawsSimulator\obj\Release\Common\StandardStyles.xaml
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CardDrawsSimulator\CardDrawsSimulator\obj\Release\MainPage.xaml
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CardDrawsSimulator\CardDrawsSimulator\obj\Release\CardDrawsSimulator.exe
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CardDrawsSimulator\CardDrawsSimulator\obj\Release\CardDrawsSimulator.pdb
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CardDrawsSimulator\CardDrawsSimulator\obj\Release\priconfig.xml
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CardDrawsSimulator\CardDrawsSimulator\obj\Release\layout.resfiles
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CardDrawsSimulator\CardDrawsSimulator\obj\Release\resources.resfiles
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CardDrawsSimulator\CardDrawsSimulator\obj\Release\pri.resfiles
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CardDrawsSimulator\CardDrawsSimulator\obj\Release\LanguageQualifiers.txt
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CardDrawsSimulator\CardDrawsSimulator\obj\Release\ProjectArchitectures.txt

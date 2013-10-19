@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
-  <Identity Name="19840ViquocQuan.CardDrawsSimulator" Publisher="CN=BB2EBC43-7F5D-40B9-AAA2-936D0FDD3638" Version="1.0.0.0" />
+  <Identity Name="19840ViquocQuan.CardsDrawSimulator" Publisher="CN=BB2EBC43-7F5D-40B9-AAA2-936D0FDD3638" Version="1.0.0.1" />
   <Properties>
-    <DisplayName>Card Draws Simulator</DisplayName>
+    <DisplayName>Cards Draw Simulator</DisplayName>
     <PublisherDisplayName>Viquoc Quan</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -15,7 +15,7 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="CardDrawsSimulator.App">
-      <VisualElements DisplayName="Card Draws Simulator" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="CardDrawsSimulator" ForegroundText="light" BackgroundColor="#D80002">
+      <VisualElements DisplayName="Cards Draw Simulator" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="CardDrawsSimulator" ForegroundText="light" BackgroundColor="#D80002">
         <DefaultTile ShowName="allLogos" />
         <SplashScreen Image="Assets\SplashScreen.png" />
       </VisualElements>

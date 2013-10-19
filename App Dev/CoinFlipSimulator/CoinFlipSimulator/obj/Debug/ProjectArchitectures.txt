@@ -1,1 +1,1 @@
-C:\Users\vtquan\SkyDrive\transfer\visual studio\CoinFlipSimulator\CoinFlipSimulator\CoinFlipSimulator.csproj;neutral
+C:\Users\quanvt\Documents\GitHub\Collection\App Dev\CoinFlipSimulator\CoinFlipSimulator\CoinFlipSimulator.csproj;neutral
